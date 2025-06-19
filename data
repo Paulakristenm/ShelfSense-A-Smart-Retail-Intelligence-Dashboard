@@ -1,0 +1,2001 @@
+Date	Store_ID	Product_ID	Category	Units_Sold	Unit_Price	Inventory_Before	Revenue	Inventory_After	Shrinkage
+1/1/2024	Store_4	Prod_17	Beverages	23	23.9	100	549.7	77	0
+1/2/2024	Store_2	Prod_6	Snacks	15	18.4	186	276	171	0
+1/3/2024	Store_2	Prod_14	Household	21	23.36	190	490.56	169	0
+1/4/2024	Store_4	Prod_17	Health	25	13.9	104	347.5	79	0
+1/5/2024	Store_1	Prod_12	Household	15	7.58	158	113.7	143	0
+1/6/2024	Store_5	Prod_8	Beverages	17	2.74	93	46.58	76	0
+1/7/2024	Store_5	Prod_7	Pet Supplies	19	18.56	159	352.64	140	0
+1/8/2024	Store_4	Prod_13	Health	21	4.35	177	91.35	156	0
+1/9/2024	Store_4	Prod_3	Snacks	17	8.62	154	146.54	137	0
+1/10/2024	Store_4	Prod_6	Health	19	14.01	59	266.19	40	0
+1/11/2024	Store_2	Prod_20	Household	16	14.76	149	236.16	133	0
+1/12/2024	Store_5	Prod_5	Health	21	15.61	197	327.81	176	0
+1/13/2024	Store_5	Prod_14	Pet Supplies	21	5.41	158	113.61	137	0
+1/14/2024	Store_3	Prod_19	Pet Supplies	17	10.42	157	177.14	140	0
+1/15/2024	Store_5	Prod_5	Beverages	22	16	189	352	167	0
+1/16/2024	Store_3	Prod_8	Health	14	24.29	195	340.06	181	0
+1/17/2024	Store_1	Prod_8	Household	17	18.6	143	316.2	126	0
+1/18/2024	Store_2	Prod_16	Snacks	17	23.18	112	394.06	95	0
+1/19/2024	Store_4	Prod_9	Beverages	21	19.41	133	407.61	112	0
+1/20/2024	Store_4	Prod_20	Household	21	15.41	74	323.61	53	0
+1/21/2024	Store_3	Prod_20	Beverages	13	6.01	61	78.13	48	0
+1/22/2024	Store_5	Prod_11	Health	18	17.17	198	309.06	180	0
+1/23/2024	Store_2	Prod_7	Snacks	25	16.15	74	403.75	49	0
+1/24/2024	Store_1	Prod_15	Health	17	15.66	60	266.22	43	0
+1/25/2024	Store_2	Prod_11	Health	24	13.01	113	312.24	89	2
+1/26/2024	Store_5	Prod_5	Pet Supplies	23	13.92	175	320.16	152	0
+1/27/2024	Store_4	Prod_17	Household	24	9.36	99	224.64	75	0
+1/28/2024	Store_3	Prod_14	Snacks	18	13.7	138	246.6	120	0
+1/29/2024	Store_1	Prod_11	Household	26	6.14	148	159.64	122	0
+1/30/2024	Store_1	Prod_14	Snacks	18	20.42	165	367.56	147	0
+1/31/2024	Store_1	Prod_2	Pet Supplies	17	5.87	145	99.79	128	0
+2/1/2024	Store_2	Prod_2	Pet Supplies	23	3.5	63	80.5	40	0
+2/2/2024	Store_3	Prod_12	Household	26	11.75	50	305.5	24	0
+2/3/2024	Store_1	Prod_8	Pet Supplies	14	16.97	74	237.58	60	0
+2/4/2024	Store_5	Prod_2	Snacks	24	11.79	121	282.96	97	0
+2/5/2024	Store_5	Prod_4	Beverages	24	8	118	192	94	0
+2/6/2024	Store_3	Prod_15	Pet Supplies	20	14.62	182	292.4	162	0
+2/7/2024	Store_5	Prod_15	Household	17	9.65	154	164.05	137	0
+2/8/2024	Store_2	Prod_12	Pet Supplies	27	23.42	196	632.34	169	0
+2/9/2024	Store_5	Prod_7	Household	19	23.18	72	440.42	53	0
+2/10/2024	Store_3	Prod_10	Pet Supplies	16	13.31	58	212.96	42	0
+2/11/2024	Store_3	Prod_15	Pet Supplies	17	9.21	167	156.57	150	0
+2/12/2024	Store_1	Prod_13	Beverages	28	18.82	143	526.96	115	0
+2/13/2024	Store_3	Prod_16	Beverages	24	2.36	193	56.64	169	0
+2/14/2024	Store_5	Prod_1	Household	27	12.66	82	341.82	55	0
+2/15/2024	Store_1	Prod_16	Household	17	9.4	179	159.8	162	0
+2/16/2024	Store_1	Prod_4	Health	16	23.13	63	370.08	47	2
+2/17/2024	Store_4	Prod_2	Snacks	19	1.78	50	33.82	31	0
+2/18/2024	Store_2	Prod_8	Pet Supplies	14	14.49	139	202.86	125	0
+2/19/2024	Store_1	Prod_19	Pet Supplies	29	18.91	138	548.39	109	0
+2/20/2024	Store_1	Prod_8	Health	20	12.9	193	258	173	0
+2/21/2024	Store_2	Prod_12	Pet Supplies	32	3.51	139	112.32	107	0
+2/22/2024	Store_3	Prod_9	Household	20	24.35	63	487	43	2
+2/23/2024	Store_2	Prod_11	Health	17	13.67	160	232.39	143	0
+2/24/2024	Store_2	Prod_6	Health	21	15.93	192	334.53	171	0
+2/25/2024	Store_1	Prod_19	Health	10	7.06	132	70.6	122	0
+2/26/2024	Store_1	Prod_11	Health	27	12.86	121	347.22	94	0
+2/27/2024	Store_1	Prod_11	Health	14	11.59	179	162.26	165	0
+2/28/2024	Store_4	Prod_4	Snacks	22	3.26	76	71.72	54	0
+2/29/2024	Store_2	Prod_11	Health	16	3.99	123	63.84	107	0
+3/1/2024	Store_3	Prod_5	Pet Supplies	18	21.18	148	381.24	130	0
+3/2/2024	Store_1	Prod_3	Health	22	7.14	121	157.08	99	0
+3/3/2024	Store_5	Prod_1	Snacks	13	6.08	72	79.04	59	0
+3/4/2024	Store_1	Prod_16	Pet Supplies	17	13.37	117	227.29	100	0
+3/5/2024	Store_1	Prod_14	Household	22	19.57	191	430.54	169	0
+3/6/2024	Store_3	Prod_14	Pet Supplies	20	2.96	166	59.2	146	2
+3/7/2024	Store_2	Prod_12	Beverages	22	15.05	155	331.1	133	0
+3/8/2024	Store_1	Prod_17	Snacks	23	4.3	142	98.9	119	0
+3/9/2024	Store_2	Prod_20	Pet Supplies	29	2.36	114	68.44	85	0
+3/10/2024	Store_3	Prod_15	Snacks	18	2.74	117	49.32	99	0
+3/11/2024	Store_3	Prod_5	Household	17	21.1	177	358.7	160	0
+3/12/2024	Store_1	Prod_12	Household	25	4.27	112	106.75	87	0
+3/13/2024	Store_2	Prod_20	Pet Supplies	20	2.56	162	51.2	142	0
+3/14/2024	Store_2	Prod_8	Snacks	27	11.79	139	318.33	112	0
+3/15/2024	Store_4	Prod_11	Beverages	18	21.33	130	383.94	112	0
+3/16/2024	Store_5	Prod_12	Snacks	26	7.67	152	199.42	126	2
+3/17/2024	Store_4	Prod_20	Pet Supplies	22	11.41	165	251.02	143	0
+3/18/2024	Store_5	Prod_16	Pet Supplies	21	2.44	62	51.24	41	0
+3/19/2024	Store_3	Prod_2	Pet Supplies	13	12.05	173	156.65	160	0
+3/20/2024	Store_4	Prod_13	Snacks	21	15.07	196	316.47	175	0
+3/21/2024	Store_1	Prod_6	Pet Supplies	22	14.92	137	328.24	115	0
+3/22/2024	Store_5	Prod_7	Health	23	9.31	60	214.13	37	0
+3/23/2024	Store_4	Prod_14	Pet Supplies	18	8.92	64	160.56	46	0
+3/24/2024	Store_1	Prod_7	Household	22	4.01	59	88.22	37	0
+3/25/2024	Store_3	Prod_18	Beverages	22	10.12	90	222.64	68	0
+3/26/2024	Store_4	Prod_14	Pet Supplies	13	3.84	122	49.92	109	0
+3/27/2024	Store_3	Prod_20	Beverages	17	19.52	101	331.84	84	0
+3/28/2024	Store_4	Prod_12	Snacks	27	24.21	177	653.67	150	0
+3/29/2024	Store_5	Prod_5	Household	24	24.3	77	583.2	53	0
+3/30/2024	Store_3	Prod_18	Household	21	21.83	114	458.43	93	0
+3/31/2024	Store_4	Prod_18	Pet Supplies	15	15.62	66	234.3	51	0
+4/1/2024	Store_1	Prod_1	Pet Supplies	17	17.97	144	305.49	127	0
+4/2/2024	Store_3	Prod_2	Pet Supplies	22	8.2	187	180.4	165	2
+4/3/2024	Store_2	Prod_4	Snacks	27	16.32	112	440.64	85	0
+4/4/2024	Store_3	Prod_18	Snacks	17	12.21	87	207.57	70	0
+4/5/2024	Store_2	Prod_2	Beverages	25	12.83	119	320.75	94	0
+4/6/2024	Store_3	Prod_9	Beverages	15	19.31	153	289.65	138	0
+4/7/2024	Store_5	Prod_11	Pet Supplies	29	8.13	102	235.77	73	0
+4/8/2024	Store_4	Prod_18	Household	21	8.97	168	188.37	147	0
+4/9/2024	Store_3	Prod_14	Household	14	23.23	123	325.22	109	0
+4/10/2024	Store_5	Prod_13	Beverages	26	2.82	103	73.32	77	0
+4/11/2024	Store_3	Prod_18	Health	23	12.91	69	296.93	46	0
+4/12/2024	Store_5	Prod_8	Snacks	18	22.95	128	413.1	110	0
+4/13/2024	Store_5	Prod_16	Beverages	20	15.84	80	316.8	60	0
+4/14/2024	Store_4	Prod_15	Snacks	24	14.34	184	344.16	160	0
+4/15/2024	Store_2	Prod_9	Beverages	23	7.37	107	169.51	84	0
+4/16/2024	Store_1	Prod_17	Health	26	9.57	154	248.82	128	0
+4/17/2024	Store_3	Prod_14	Household	18	21.52	59	387.36	41	0
+4/18/2024	Store_4	Prod_3	Health	21	14.64	59	307.44	38	0
+4/19/2024	Store_5	Prod_18	Snacks	19	13.6	88	258.4	69	0
+4/20/2024	Store_4	Prod_14	Snacks	17	3.84	86	65.28	69	0
+4/21/2024	Store_5	Prod_10	Household	7	1.88	168	13.16	161	0
+4/22/2024	Store_1	Prod_4	Health	25	24.15	116	603.75	91	2
+4/23/2024	Store_5	Prod_1	Household	14	10.36	92	145.04	78	0
+4/24/2024	Store_2	Prod_16	Household	24	15.68	101	376.32	77	0
+4/25/2024	Store_3	Prod_3	Pet Supplies	22	3.37	150	74.14	128	0
+4/26/2024	Store_5	Prod_18	Beverages	20	17.55	105	351	85	0
+4/27/2024	Store_4	Prod_6	Snacks	20	23.42	125	468.4	105	0
+4/28/2024	Store_4	Prod_10	Household	24	15.03	117	360.72	93	0
+4/29/2024	Store_5	Prod_8	Beverages	19	4.46	186	84.74	167	0
+4/30/2024	Store_3	Prod_4	Snacks	25	15.17	155	379.25	130	0
+5/1/2024	Store_1	Prod_7	Household	19	19.51	174	370.69	155	0
+5/2/2024	Store_4	Prod_9	Household	15	11.05	141	165.75	126	2
+5/3/2024	Store_4	Prod_18	Pet Supplies	21	22.18	72	465.78	51	0
+5/4/2024	Store_1	Prod_8	Household	22	16.74	158	368.28	136	0
+5/5/2024	Store_1	Prod_14	Beverages	30	22.63	110	678.9	80	0
+5/6/2024	Store_2	Prod_11	Health	21	16.15	93	339.15	72	0
+5/7/2024	Store_1	Prod_2	Beverages	19	4.59	65	87.21	46	0
+5/8/2024	Store_5	Prod_17	Beverages	18	8.78	71	158.04	53	0
+5/9/2024	Store_5	Prod_20	Snacks	10	6.24	106	62.4	96	0
+5/10/2024	Store_5	Prod_17	Beverages	25	22.86	111	571.5	86	0
+5/11/2024	Store_3	Prod_8	Health	20	19.37	156	387.4	136	0
+5/12/2024	Store_2	Prod_3	Health	20	17.4	120	348	100	0
+5/13/2024	Store_3	Prod_18	Snacks	15	8.57	139	128.55	124	0
+5/14/2024	Store_5	Prod_20	Household	19	5.83	121	110.77	102	0
+5/15/2024	Store_5	Prod_2	Health	22	19.28	119	424.16	97	0
+5/16/2024	Store_4	Prod_4	Household	18	12.64	79	227.52	61	0
+5/17/2024	Store_1	Prod_2	Beverages	20	6.81	152	136.2	132	0
+5/18/2024	Store_4	Prod_20	Household	22	15.99	81	351.78	59	0
+5/19/2024	Store_1	Prod_14	Beverages	12	2.45	135	29.4	123	0
+5/20/2024	Store_3	Prod_17	Pet Supplies	29	9.17	106	265.93	77	0
+5/21/2024	Store_5	Prod_10	Snacks	18	12.51	158	225.18	140	0
+5/22/2024	Store_2	Prod_10	Health	19	4.98	58	94.62	39	0
+5/23/2024	Store_2	Prod_6	Snacks	29	24.64	80	714.56	51	0
+5/24/2024	Store_4	Prod_10	Pet Supplies	15	6.41	120	96.15	105	0
+5/25/2024	Store_3	Prod_11	Snacks	13	4.56	186	59.28	173	0
+5/26/2024	Store_2	Prod_11	Beverages	13	6.28	62	81.64	49	0
+5/27/2024	Store_2	Prod_8	Pet Supplies	12	19.57	180	234.84	168	0
+5/28/2024	Store_3	Prod_15	Health	25	11.5	84	287.5	59	0
+5/29/2024	Store_2	Prod_20	Household	25	14.79	70	369.75	45	0
+5/30/2024	Store_1	Prod_3	Pet Supplies	14	1.99	113	27.86	99	0
+5/31/2024	Store_4	Prod_6	Health	23	2.31	144	53.13	121	0
+6/1/2024	Store_4	Prod_13	Household	17	11.98	83	203.66	66	0
+6/2/2024	Store_4	Prod_9	Snacks	23	20.69	170	475.87	147	0
+6/3/2024	Store_5	Prod_17	Pet Supplies	18	22.3	64	401.4	46	0
+6/4/2024	Store_5	Prod_14	Pet Supplies	18	3.54	169	63.72	151	0
+6/5/2024	Store_2	Prod_12	Health	26	14.15	145	367.9	119	0
+6/6/2024	Store_3	Prod_13	Pet Supplies	23	22.96	55	528.08	32	0
+6/7/2024	Store_2	Prod_15	Snacks	20	10.62	158	212.4	138	0
+6/8/2024	Store_3	Prod_9	Household	18	20.99	146	377.82	128	0
+6/9/2024	Store_1	Prod_11	Beverages	27	4.64	81	125.28	54	0
+6/10/2024	Store_4	Prod_4	Household	30	23.48	132	704.4	102	0
+6/11/2024	Store_4	Prod_3	Snacks	22	19.16	167	421.52	145	0
+6/12/2024	Store_3	Prod_18	Pet Supplies	17	23.62	128	401.54	111	0
+6/13/2024	Store_1	Prod_5	Health	22	17.4	127	382.8	105	0
+6/14/2024	Store_1	Prod_3	Household	24	10.04	196	240.96	172	2
+6/15/2024	Store_5	Prod_11	Household	13	23.55	156	306.15	143	0
+6/16/2024	Store_3	Prod_5	Beverages	11	7.98	175	87.78	164	0
+6/17/2024	Store_5	Prod_1	Pet Supplies	19	9.31	64	176.89	45	0
+6/18/2024	Store_2	Prod_1	Household	18	17.97	183	323.46	165	0
+6/19/2024	Store_4	Prod_9	Health	22	19.48	122	428.56	100	0
+6/20/2024	Store_5	Prod_12	Snacks	12	23.34	150	280.08	138	0
+6/21/2024	Store_3	Prod_11	Beverages	23	6.31	147	145.13	124	0
+6/22/2024	Store_5	Prod_8	Health	18	20.25	75	364.5	57	0
+6/23/2024	Store_5	Prod_9	Beverages	18	18.86	141	339.48	123	0
+6/24/2024	Store_3	Prod_13	Health	24	3	174	72	150	0
+6/25/2024	Store_4	Prod_12	Pet Supplies	19	10.6	122	201.4	103	0
+6/26/2024	Store_1	Prod_11	Pet Supplies	13	8.14	172	105.82	159	0
+6/27/2024	Store_4	Prod_2	Pet Supplies	11	8.66	102	95.26	91	0
+6/28/2024	Store_1	Prod_8	Household	14	24.6	127	344.4	113	0
+6/29/2024	Store_5	Prod_16	Snacks	23	16.61	141	382.03	118	0
+6/30/2024	Store_3	Prod_5	Household	32	18.37	137	587.84	105	0
+7/1/2024	Store_4	Prod_13	Pet Supplies	17	24.45	62	415.65	45	2
+7/2/2024	Store_1	Prod_3	Pet Supplies	12	10.36	92	124.32	80	0
+7/3/2024	Store_1	Prod_20	Household	22	20.34	125	447.48	103	0
+7/4/2024	Store_2	Prod_20	Household	19	11.71	100	222.49	81	0
+7/5/2024	Store_5	Prod_7	Health	21	21.93	68	460.53	47	0
+7/6/2024	Store_2	Prod_5	Beverages	9	5.75	198	51.75	189	0
+7/7/2024	Store_1	Prod_6	Snacks	19	23.77	171	451.63	152	0
+7/8/2024	Store_2	Prod_6	Pet Supplies	17	6.64	73	112.88	56	0
+7/9/2024	Store_5	Prod_3	Pet Supplies	19	9.17	75	174.23	56	0
+7/10/2024	Store_4	Prod_11	Pet Supplies	21	19.27	169	404.67	148	2
+7/11/2024	Store_2	Prod_2	Beverages	23	10.75	131	247.25	108	0
+7/12/2024	Store_5	Prod_8	Beverages	17	15.79	149	268.43	132	2
+7/13/2024	Store_1	Prod_17	Household	22	11.95	66	262.9	44	0
+7/14/2024	Store_4	Prod_13	Health	27	18.95	117	511.65	90	0
+7/15/2024	Store_2	Prod_10	Pet Supplies	30	6.87	93	206.1	63	0
+7/16/2024	Store_4	Prod_19	Health	21	2.87	110	60.27	89	0
+7/17/2024	Store_3	Prod_14	Snacks	28	8.55	172	239.4	144	0
+7/18/2024	Store_5	Prod_2	Household	9	12.65	142	113.85	133	0
+7/19/2024	Store_5	Prod_3	Snacks	18	5.45	123	98.1	105	0
+7/20/2024	Store_5	Prod_5	Beverages	21	9.84	116	206.64	95	0
+7/21/2024	Store_2	Prod_13	Beverages	25	10.9	160	272.5	135	0
+7/22/2024	Store_2	Prod_10	Snacks	19	2.85	51	54.15	32	0
+7/23/2024	Store_5	Prod_14	Household	25	15.21	138	380.25	113	0
+7/24/2024	Store_5	Prod_17	Snacks	19	22.28	75	423.32	56	2
+7/25/2024	Store_4	Prod_13	Beverages	30	5.07	148	152.1	118	0
+7/26/2024	Store_2	Prod_9	Household	16	15.55	76	248.8	60	0
+7/27/2024	Store_2	Prod_3	Pet Supplies	22	17.12	138	376.64	116	0
+7/28/2024	Store_1	Prod_11	Household	14	11.35	195	158.9	181	0
+7/29/2024	Store_2	Prod_6	Household	20	17.98	50	359.6	30	0
+7/30/2024	Store_2	Prod_7	Snacks	20	11.15	152	223	132	0
+7/31/2024	Store_5	Prod_5	Snacks	21	13.36	180	280.56	159	0
+8/1/2024	Store_5	Prod_11	Beverages	26	1.67	90	43.42	64	0
+8/2/2024	Store_4	Prod_19	Beverages	14	17.76	100	248.64	86	0
+8/3/2024	Store_1	Prod_15	Health	24	17.04	64	408.96	40	0
+8/4/2024	Store_1	Prod_5	Health	23	2.4	57	55.2	34	0
+8/5/2024	Store_5	Prod_16	Snacks	14	10.15	87	142.1	73	0
+8/6/2024	Store_1	Prod_16	Pet Supplies	18	24.51	163	441.18	145	0
+8/7/2024	Store_3	Prod_9	Snacks	18	11.39	132	205.02	114	0
+8/8/2024	Store_5	Prod_9	Household	27	13.3	105	359.1	78	0
+8/9/2024	Store_4	Prod_6	Beverages	20	22.88	152	457.6	132	0
+8/10/2024	Store_2	Prod_4	Snacks	19	18.36	187	348.84	168	0
+8/11/2024	Store_3	Prod_16	Household	20	15.18	151	303.6	131	0
+8/12/2024	Store_1	Prod_12	Pet Supplies	20	20.25	127	405	107	0
+8/13/2024	Store_2	Prod_3	Household	22	21.81	132	479.82	110	0
+8/14/2024	Store_3	Prod_17	Pet Supplies	12	12.24	79	146.88	67	0
+8/15/2024	Store_2	Prod_15	Snacks	14	12.67	54	177.38	40	0
+8/16/2024	Store_2	Prod_19	Health	14	10.57	168	147.98	154	0
+8/17/2024	Store_3	Prod_8	Health	15	24.22	80	363.3	65	0
+8/18/2024	Store_4	Prod_15	Snacks	27	17.88	72	482.76	45	0
+8/19/2024	Store_1	Prod_20	Health	22	3.46	97	76.12	75	0
+8/20/2024	Store_2	Prod_11	Snacks	15	21.78	158	326.7	143	0
+8/21/2024	Store_3	Prod_8	Household	15	12.79	89	191.85	74	0
+8/22/2024	Store_3	Prod_9	Beverages	15	3.12	55	46.8	40	0
+8/23/2024	Store_1	Prod_18	Pet Supplies	14	14.42	87	201.88	73	2
+8/24/2024	Store_3	Prod_15	Household	16	11.3	149	180.8	133	0
+8/25/2024	Store_2	Prod_7	Household	20	22.13	76	442.6	56	0
+8/26/2024	Store_5	Prod_7	Pet Supplies	22	6.29	118	138.38	96	0
+8/27/2024	Store_3	Prod_16	Household	11	20.92	106	230.12	95	0
+8/28/2024	Store_4	Prod_17	Beverages	24	14.61	66	350.64	42	0
+8/29/2024	Store_3	Prod_5	Snacks	15	2.78	120	41.7	105	0
+8/30/2024	Store_5	Prod_3	Health	18	24.34	96	438.12	78	0
+8/31/2024	Store_4	Prod_19	Household	22	13.55	128	298.1	106	0
+9/1/2024	Store_2	Prod_4	Beverages	19	8.34	159	158.46	140	0
+9/2/2024	Store_3	Prod_14	Household	20	12.53	62	250.6	42	0
+9/3/2024	Store_3	Prod_5	Household	13	21.66	188	281.58	175	0
+9/4/2024	Store_2	Prod_3	Household	20	8.67	173	173.4	153	0
+9/5/2024	Store_4	Prod_16	Household	17	6.03	158	102.51	141	0
+9/6/2024	Store_2	Prod_16	Beverages	16	4.53	139	72.48	123	0
+9/7/2024	Store_2	Prod_10	Snacks	14	8.5	135	119	121	0
+9/8/2024	Store_2	Prod_19	Household	21	19.83	141	416.43	120	0
+9/9/2024	Store_3	Prod_20	Beverages	24	12.58	73	301.92	49	0
+9/10/2024	Store_4	Prod_10	Pet Supplies	13	6.85	122	89.05	109	0
+9/11/2024	Store_4	Prod_1	Snacks	21	5.41	53	113.61	32	0
+9/12/2024	Store_3	Prod_20	Snacks	19	9.32	162	177.08	143	0
+9/13/2024	Store_1	Prod_2	Snacks	17	23.59	95	401.03	78	0
+9/14/2024	Store_2	Prod_9	Snacks	22	9.56	67	210.32	45	0
+9/15/2024	Store_1	Prod_15	Beverages	21	24.72	92	519.12	71	0
+9/16/2024	Store_1	Prod_20	Pet Supplies	13	12.9	142	167.7	129	0
+9/17/2024	Store_1	Prod_6	Snacks	16	5.71	152	91.36	136	0
+9/18/2024	Store_4	Prod_15	Beverages	15	22.44	173	336.6	158	0
+9/19/2024	Store_3	Prod_14	Health	12	12.32	59	147.84	47	0
+9/20/2024	Store_3	Prod_12	Beverages	13	18.18	122	236.34	109	0
+9/21/2024	Store_4	Prod_16	Household	25	24.62	80	615.5	55	0
+9/22/2024	Store_3	Prod_18	Pet Supplies	15	2.68	109	40.2	94	0
+9/23/2024	Store_1	Prod_9	Health	28	3.77	180	105.56	152	0
+9/24/2024	Store_2	Prod_16	Snacks	21	18.43	167	387.03	146	0
+9/25/2024	Store_3	Prod_17	Beverages	24	8.12	63	194.88	39	0
+9/26/2024	Store_1	Prod_8	Health	18	5.83	192	104.94	174	0
+9/27/2024	Store_1	Prod_12	Household	20	2.43	51	48.6	31	0
+9/28/2024	Store_4	Prod_15	Pet Supplies	14	2.01	73	28.14	59	0
+9/29/2024	Store_1	Prod_18	Pet Supplies	17	19.7	113	334.9	96	0
+9/30/2024	Store_1	Prod_19	Health	15	4.66	149	69.9	134	0
+10/1/2024	Store_5	Prod_20	Beverages	20	12.49	163	249.8	143	0
+10/2/2024	Store_1	Prod_12	Pet Supplies	18	15.74	73	283.32	55	0
+10/3/2024	Store_4	Prod_15	Pet Supplies	17	11.57	140	196.69	123	0
+10/4/2024	Store_2	Prod_13	Snacks	16	2.14	75	34.24	59	0
+10/5/2024	Store_4	Prod_9	Health	24	19.91	114	477.84	90	0
+10/6/2024	Store_5	Prod_2	Beverages	20	1.75	169	35	149	2
+10/7/2024	Store_5	Prod_17	Household	18	19.4	53	349.2	35	2
+10/8/2024	Store_4	Prod_7	Health	14	22.49	50	314.86	36	0
+10/9/2024	Store_5	Prod_6	Health	29	11.67	99	338.43	70	0
+10/10/2024	Store_2	Prod_15	Health	21	14.09	159	295.89	138	0
+10/11/2024	Store_3	Prod_13	Beverages	16	12.71	188	203.36	172	0
+10/12/2024	Store_5	Prod_16	Pet Supplies	15	10.65	123	159.75	108	0
+10/13/2024	Store_3	Prod_9	Beverages	22	22.35	111	491.7	89	0
+10/14/2024	Store_5	Prod_12	Snacks	18	22.51	130	405.18	112	0
+10/15/2024	Store_1	Prod_10	Snacks	18	9.39	105	169.02	87	0
+10/16/2024	Store_4	Prod_2	Beverages	19	15.95	160	303.05	141	0
+10/17/2024	Store_4	Prod_13	Snacks	19	23.28	70	442.32	51	0
+10/18/2024	Store_4	Prod_16	Beverages	23	24.11	190	554.53	167	0
+10/19/2024	Store_4	Prod_15	Pet Supplies	18	13.46	58	242.28	40	0
+10/20/2024	Store_2	Prod_10	Pet Supplies	27	12.14	188	327.78	161	0
+10/21/2024	Store_2	Prod_20	Pet Supplies	22	8.05	119	177.1	97	0
+10/22/2024	Store_2	Prod_3	Pet Supplies	22	24.03	178	528.66	156	0
+10/23/2024	Store_4	Prod_2	Snacks	15	4.86	167	72.9	152	0
+10/24/2024	Store_5	Prod_1	Health	16	15.13	105	242.08	89	0
+10/25/2024	Store_2	Prod_2	Snacks	18	8.14	80	146.52	62	0
+10/26/2024	Store_5	Prod_15	Household	14	8.06	86	112.84	72	0
+10/27/2024	Store_4	Prod_5	Health	24	11.02	140	264.48	116	0
+10/28/2024	Store_5	Prod_3	Beverages	16	24.97	163	399.52	147	0
+10/29/2024	Store_5	Prod_9	Pet Supplies	23	2.79	177	64.17	154	0
+10/30/2024	Store_5	Prod_1	Snacks	23	15.1	171	347.3	148	0
+10/31/2024	Store_2	Prod_16	Beverages	16	3.44	118	55.04	102	0
+11/1/2024	Store_5	Prod_18	Household	21	5.13	85	107.73	64	0
+11/2/2024	Store_1	Prod_1	Beverages	19	11.83	81	224.77	62	0
+11/3/2024	Store_4	Prod_15	Household	15	13.5	113	202.5	98	0
+11/4/2024	Store_3	Prod_10	Snacks	20	7.58	97	151.6	77	0
+11/5/2024	Store_1	Prod_3	Pet Supplies	28	8.94	130	250.32	102	2
+11/6/2024	Store_1	Prod_2	Pet Supplies	23	3.54	198	81.42	175	0
+11/7/2024	Store_1	Prod_6	Health	21	8.63	109	181.23	88	0
+11/8/2024	Store_2	Prod_14	Snacks	19	24.21	190	459.99	171	0
+11/9/2024	Store_4	Prod_11	Health	28	23.7	50	663.6	22	2
+11/10/2024	Store_1	Prod_11	Snacks	19	9.37	114	178.03	95	0
+11/11/2024	Store_2	Prod_5	Beverages	26	14.92	82	387.92	56	0
+11/12/2024	Store_4	Prod_6	Health	21	22.88	87	480.48	66	0
+11/13/2024	Store_5	Prod_3	Health	10	1.65	74	16.5	64	0
+11/14/2024	Store_4	Prod_7	Household	24	20.55	108	493.2	84	0
+11/15/2024	Store_5	Prod_12	Beverages	18	23.79	150	428.22	132	0
+11/16/2024	Store_3	Prod_14	Snacks	20	3.65	176	73	156	0
+11/17/2024	Store_2	Prod_9	Pet Supplies	18	5.29	90	95.22	72	0
+11/18/2024	Store_5	Prod_13	Beverages	23	24.08	106	553.84	83	0
+11/19/2024	Store_2	Prod_3	Snacks	16	14.13	97	226.08	81	0
+11/20/2024	Store_4	Prod_16	Beverages	14	1.83	121	25.62	107	0
+11/21/2024	Store_4	Prod_20	Snacks	20	7.55	105	151	85	0
+11/22/2024	Store_3	Prod_14	Health	27	12.07	114	325.89	87	0
+11/23/2024	Store_2	Prod_14	Beverages	21	17.78	61	373.38	40	0
+11/24/2024	Store_5	Prod_7	Pet Supplies	14	18.73	118	262.22	104	0
+11/25/2024	Store_3	Prod_20	Household	20	24.89	183	497.8	163	0
+11/26/2024	Store_3	Prod_2	Snacks	16	8.26	138	132.16	122	0
+11/27/2024	Store_5	Prod_16	Pet Supplies	16	14.15	74	226.4	58	0
+11/28/2024	Store_3	Prod_5	Snacks	21	14.03	50	294.63	29	0
+11/29/2024	Store_1	Prod_14	Household	24	11.03	180	264.72	156	0
+11/30/2024	Store_1	Prod_8	Health	20	5.48	98	109.6	78	0
+12/1/2024	Store_4	Prod_9	Beverages	19	24.47	196	464.93	177	0
+12/2/2024	Store_4	Prod_18	Pet Supplies	15	21.55	109	323.25	94	0
+12/3/2024	Store_3	Prod_16	Household	18	13.21	51	237.78	33	0
+12/4/2024	Store_5	Prod_16	Snacks	22	15.68	122	344.96	100	0
+12/5/2024	Store_5	Prod_7	Snacks	23	6.84	194	157.32	171	0
+12/6/2024	Store_4	Prod_13	Snacks	16	14.28	159	228.48	143	0
+12/7/2024	Store_4	Prod_12	Health	24	17.83	110	427.92	86	0
+12/8/2024	Store_5	Prod_9	Health	22	13.61	66	299.42	44	0
+12/9/2024	Store_3	Prod_7	Beverages	13	24.77	98	322.01	85	0
+12/10/2024	Store_1	Prod_4	Health	25	15.87	125	396.75	100	0
+12/11/2024	Store_2	Prod_15	Beverages	22	10.22	197	224.84	175	0
+12/12/2024	Store_3	Prod_17	Snacks	17	19.65	180	334.05	163	0
+12/13/2024	Store_2	Prod_19	Pet Supplies	16	5.51	92	88.16	76	0
+12/14/2024	Store_2	Prod_5	Health	15	10.54	106	158.1	91	0
+12/15/2024	Store_4	Prod_8	Pet Supplies	19	9.65	99	183.35	80	0
+12/16/2024	Store_1	Prod_7	Household	25	11.65	86	291.25	61	0
+12/17/2024	Store_5	Prod_14	Snacks	17	19.87	95	337.79	78	0
+12/18/2024	Store_5	Prod_7	Snacks	21	12.88	64	270.48	43	0
+12/19/2024	Store_1	Prod_7	Snacks	22	20.16	129	443.52	107	0
+12/20/2024	Store_4	Prod_16	Household	21	15.05	188	316.05	167	0
+12/21/2024	Store_5	Prod_6	Beverages	24	9.54	197	228.96	173	0
+12/22/2024	Store_5	Prod_3	Pet Supplies	26	20.53	73	533.78	47	0
+12/23/2024	Store_5	Prod_13	Snacks	19	7.1	174	134.9	155	2
+12/24/2024	Store_4	Prod_18	Beverages	17	6.77	167	115.09	150	0
+12/25/2024	Store_5	Prod_6	Pet Supplies	22	13.36	129	293.92	107	0
+12/26/2024	Store_1	Prod_10	Snacks	15	7.63	143	114.45	128	0
+12/27/2024	Store_4	Prod_3	Beverages	14	1.71	114	23.94	100	0
+12/28/2024	Store_4	Prod_17	Beverages	17	16.73	137	284.41	120	0
+12/29/2024	Store_1	Prod_4	Pet Supplies	22	13.51	137	297.22	115	0
+12/30/2024	Store_1	Prod_6	Snacks	16	11.97	194	191.52	178	0
+12/31/2024	Store_4	Prod_9	Household	26	24.22	175	629.72	149	0
+1/1/2025	Store_1	Prod_14	Health	21	14.92	138	313.32	117	0
+1/2/2025	Store_3	Prod_14	Health	19	21.79	110	414.01	91	0
+1/3/2025	Store_1	Prod_9	Pet Supplies	20	4.78	64	95.6	44	2
+1/4/2025	Store_1	Prod_18	Household	15	14.88	143	223.2	128	0
+1/5/2025	Store_1	Prod_7	Pet Supplies	12	21.9	100	262.8	88	2
+1/6/2025	Store_1	Prod_18	Snacks	16	15.2	76	243.2	60	0
+1/7/2025	Store_2	Prod_13	Pet Supplies	17	18.37	123	312.29	106	0
+1/8/2025	Store_2	Prod_3	Beverages	23	10.24	110	235.52	87	0
+1/9/2025	Store_4	Prod_20	Pet Supplies	21	3.67	80	77.07	59	0
+1/10/2025	Store_4	Prod_11	Beverages	23	12.26	61	281.98	38	0
+1/11/2025	Store_3	Prod_3	Health	21	10.77	95	226.17	74	0
+1/12/2025	Store_3	Prod_3	Snacks	20	21.88	81	437.6	61	0
+1/13/2025	Store_4	Prod_7	Health	18	7.23	110	130.14	92	0
+1/14/2025	Store_3	Prod_1	Snacks	13	24.22	95	314.86	82	0
+1/15/2025	Store_2	Prod_10	Beverages	23	24.02	134	552.46	111	0
+1/16/2025	Store_3	Prod_5	Snacks	23	7.32	129	168.36	106	0
+1/17/2025	Store_3	Prod_7	Household	16	9.68	184	154.88	168	0
+1/18/2025	Store_5	Prod_12	Beverages	24	22.55	53	541.2	29	0
+1/19/2025	Store_2	Prod_3	Household	17	24.22	101	411.74	84	0
+1/20/2025	Store_2	Prod_14	Health	18	11.92	161	214.56	143	0
+1/21/2025	Store_5	Prod_18	Health	28	9.04	85	253.12	57	0
+1/22/2025	Store_1	Prod_3	Health	30	13.86	103	415.8	73	0
+1/23/2025	Store_5	Prod_19	Health	15	17.66	168	264.9	153	0
+1/24/2025	Store_2	Prod_12	Household	26	7.93	176	206.18	150	0
+1/25/2025	Store_3	Prod_14	Beverages	24	18.81	66	451.44	42	0
+1/26/2025	Store_1	Prod_7	Health	16	2.71	124	43.36	108	0
+1/27/2025	Store_1	Prod_17	Beverages	29	2.66	154	77.14	125	0
+1/28/2025	Store_2	Prod_10	Beverages	15	10.58	199	158.7	184	2
+1/29/2025	Store_4	Prod_2	Household	27	9.81	166	264.87	139	0
+1/30/2025	Store_1	Prod_19	Household	23	8.92	92	205.16	69	0
+1/31/2025	Store_5	Prod_4	Snacks	29	13.04	161	378.16	132	0
+2/1/2025	Store_1	Prod_10	Health	17	9.04	164	153.68	147	0
+2/2/2025	Store_1	Prod_11	Pet Supplies	16	6.02	76	96.32	60	0
+2/3/2025	Store_1	Prod_10	Health	12	8.77	86	105.24	74	0
+2/4/2025	Store_3	Prod_20	Snacks	18	24.41	95	439.38	77	0
+2/5/2025	Store_2	Prod_15	Snacks	11	11.16	162	122.76	151	0
+2/6/2025	Store_5	Prod_1	Health	20	11.95	84	239	64	0
+2/7/2025	Store_3	Prod_4	Pet Supplies	17	15.05	181	255.85	164	0
+2/8/2025	Store_5	Prod_16	Snacks	26	24.61	129	639.86	103	0
+2/9/2025	Store_1	Prod_20	Beverages	16	7.18	129	114.88	113	0
+2/10/2025	Store_3	Prod_11	Beverages	26	17.51	170	455.26	144	0
+2/11/2025	Store_3	Prod_13	Health	26	18.33	196	476.58	170	0
+2/12/2025	Store_4	Prod_13	Beverages	24	15.77	171	378.48	147	0
+2/13/2025	Store_4	Prod_8	Snacks	20	3.58	130	71.6	110	0
+2/14/2025	Store_1	Prod_15	Household	24	17.41	199	417.84	175	0
+2/15/2025	Store_3	Prod_20	Health	19	3.01	168	57.19	149	0
+2/16/2025	Store_2	Prod_3	Household	16	15.51	107	248.16	91	0
+2/17/2025	Store_4	Prod_15	Health	18	18.88	112	339.84	94	0
+2/18/2025	Store_4	Prod_8	Snacks	17	6.46	149	109.82	132	0
+2/19/2025	Store_2	Prod_17	Pet Supplies	9	21.28	115	191.52	106	0
+2/20/2025	Store_1	Prod_1	Beverages	18	2.21	194	39.78	176	0
+2/21/2025	Store_1	Prod_9	Beverages	24	21.33	134	511.92	110	0
+2/22/2025	Store_2	Prod_9	Beverages	19	12.32	186	234.08	167	0
+2/23/2025	Store_5	Prod_15	Beverages	29	6.61	193	191.69	164	0
+2/24/2025	Store_5	Prod_11	Household	21	4.64	172	97.44	151	0
+2/25/2025	Store_4	Prod_16	Snacks	29	23.9	51	693.1	22	0
+2/26/2025	Store_1	Prod_13	Health	21	3.21	155	67.41	134	2
+2/27/2025	Store_1	Prod_18	Pet Supplies	16	6.18	157	98.88	141	0
+2/28/2025	Store_3	Prod_20	Health	16	9.67	121	154.72	105	0
+3/1/2025	Store_5	Prod_19	Beverages	24	16.08	175	385.92	151	0
+3/2/2025	Store_3	Prod_2	Snacks	19	14.3	106	271.7	87	0
+3/3/2025	Store_3	Prod_13	Health	23	4.45	130	102.35	107	0
+3/4/2025	Store_5	Prod_8	Pet Supplies	25	8.31	190	207.75	165	0
+3/5/2025	Store_3	Prod_5	Household	16	7.11	68	113.76	52	0
+3/6/2025	Store_3	Prod_14	Health	21	6.52	56	136.92	35	0
+3/7/2025	Store_3	Prod_7	Snacks	13	11.16	186	145.08	173	0
+3/8/2025	Store_5	Prod_8	Beverages	17	18.04	103	306.68	86	0
+3/9/2025	Store_2	Prod_18	Pet Supplies	22	6.61	153	145.42	131	0
+3/10/2025	Store_1	Prod_13	Pet Supplies	13	10.12	135	131.56	122	0
+3/11/2025	Store_5	Prod_19	Beverages	18	10.69	131	192.42	113	0
+3/12/2025	Store_5	Prod_4	Beverages	23	24.45	110	562.35	87	0
+3/13/2025	Store_4	Prod_19	Health	12	23.93	136	287.16	124	0
+3/14/2025	Store_4	Prod_1	Pet Supplies	22	20.3	51	446.6	29	0
+3/15/2025	Store_2	Prod_6	Household	25	7.18	80	179.5	55	0
+3/16/2025	Store_4	Prod_12	Health	20	3.1	82	62	62	0
+3/17/2025	Store_2	Prod_2	Pet Supplies	25	8.95	129	223.75	104	0
+3/18/2025	Store_5	Prod_13	Pet Supplies	22	7.77	60	170.94	38	0
+3/19/2025	Store_1	Prod_5	Household	17	13.39	177	227.63	160	0
+3/20/2025	Store_3	Prod_3	Beverages	24	19.78	184	474.72	160	0
+3/21/2025	Store_4	Prod_16	Household	23	21.67	177	498.41	154	0
+3/22/2025	Store_4	Prod_6	Beverages	22	21.35	80	469.7	58	0
+3/23/2025	Store_3	Prod_4	Snacks	15	9.95	175	149.25	160	0
+3/24/2025	Store_2	Prod_8	Health	26	17.65	96	458.9	70	0
+3/25/2025	Store_3	Prod_18	Beverages	25	8.85	156	221.25	131	0
+3/26/2025	Store_1	Prod_19	Snacks	18	2.93	68	52.74	50	0
+3/27/2025	Store_3	Prod_10	Snacks	15	17.99	130	269.85	115	2
+3/28/2025	Store_4	Prod_17	Snacks	25	1.73	172	43.25	147	0
+3/29/2025	Store_2	Prod_13	Snacks	22	11.12	183	244.64	161	0
+3/30/2025	Store_5	Prod_1	Pet Supplies	22	9.24	156	203.28	134	0
+3/31/2025	Store_4	Prod_11	Household	24	17.79	98	426.96	74	0
+4/1/2025	Store_2	Prod_1	Household	24	19.51	122	468.24	98	0
+4/2/2025	Store_2	Prod_2	Snacks	32	8.65	99	276.8	67	0
+4/3/2025	Store_3	Prod_11	Health	23	20.57	130	473.11	107	2
+4/4/2025	Store_4	Prod_5	Pet Supplies	17	8.41	144	142.97	127	2
+4/5/2025	Store_1	Prod_14	Beverages	18	11.99	61	215.82	43	0
+4/6/2025	Store_2	Prod_14	Health	23	18.58	72	427.34	49	0
+4/7/2025	Store_5	Prod_1	Snacks	24	17.78	103	426.72	79	0
+4/8/2025	Store_3	Prod_1	Snacks	20	24.7	167	494	147	0
+4/9/2025	Store_5	Prod_7	Household	22	6.79	108	149.38	86	0
+4/10/2025	Store_3	Prod_8	Household	19	17.06	52	324.14	33	0
+4/11/2025	Store_4	Prod_14	Pet Supplies	15	15.83	107	237.45	92	0
+4/12/2025	Store_4	Prod_13	Health	23	23	106	529	83	0
+4/13/2025	Store_2	Prod_14	Household	12	5.17	194	62.04	182	0
+4/14/2025	Store_4	Prod_3	Health	22	19.17	139	421.74	117	0
+4/15/2025	Store_1	Prod_9	Household	30	14.85	104	445.5	74	0
+4/16/2025	Store_2	Prod_1	Household	19	7.95	94	151.05	75	0
+4/17/2025	Store_5	Prod_6	Household	19	12.65	50	240.35	31	0
+4/18/2025	Store_4	Prod_12	Household	19	9.34	70	177.46	51	0
+4/19/2025	Store_2	Prod_19	Health	27	15.11	70	407.97	43	0
+4/20/2025	Store_1	Prod_2	Pet Supplies	16	22.39	101	358.24	85	0
+4/21/2025	Store_2	Prod_7	Health	22	14.88	131	327.36	109	0
+4/22/2025	Store_2	Prod_10	Household	26	16.35	116	425.1	90	0
+4/23/2025	Store_3	Prod_11	Household	33	13.69	162	451.77	129	0
+4/24/2025	Store_1	Prod_12	Pet Supplies	24	2.7	93	64.8	69	0
+4/25/2025	Store_3	Prod_14	Pet Supplies	14	6.97	59	97.58	45	0
+4/26/2025	Store_5	Prod_13	Pet Supplies	28	13.06	113	365.68	85	0
+4/27/2025	Store_1	Prod_14	Snacks	24	8.79	118	210.96	94	0
+4/28/2025	Store_5	Prod_19	Health	14	5.77	117	80.78	103	0
+4/29/2025	Store_4	Prod_10	Household	22	13.35	77	293.7	55	0
+4/30/2025	Store_1	Prod_20	Snacks	16	9.09	165	145.44	149	0
+5/1/2025	Store_4	Prod_16	Beverages	11	7.57	100	83.27	89	0
+5/2/2025	Store_2	Prod_15	Snacks	17	12.4	53	210.8	36	0
+5/3/2025	Store_3	Prod_8	Household	17	4.63	128	78.71	111	0
+5/4/2025	Store_5	Prod_3	Pet Supplies	18	23.3	66	419.4	48	0
+5/5/2025	Store_1	Prod_15	Beverages	21	21.89	157	459.69	136	0
+5/6/2025	Store_4	Prod_5	Health	24	18.13	123	435.12	99	0
+5/7/2025	Store_1	Prod_1	Health	20	4	72	80	52	2
+5/8/2025	Store_5	Prod_14	Snacks	14	19.73	67	276.22	53	0
+5/9/2025	Store_3	Prod_9	Health	22	20.49	178	450.78	156	0
+5/10/2025	Store_2	Prod_13	Health	21	19.54	84	410.34	63	0
+5/11/2025	Store_3	Prod_19	Pet Supplies	18	4.18	113	75.24	95	0
+5/12/2025	Store_4	Prod_19	Health	13	16.63	108	216.19	95	0
+5/13/2025	Store_4	Prod_9	Pet Supplies	7	21.11	50	147.77	43	0
+5/14/2025	Store_3	Prod_6	Household	19	15.07	180	286.33	161	0
+5/15/2025	Store_2	Prod_11	Snacks	21	16.69	116	350.49	95	0
+5/16/2025	Store_2	Prod_7	Health	24	12.27	86	294.48	62	0
+5/17/2025	Store_2	Prod_10	Household	15	13.92	78	208.8	63	0
+5/18/2025	Store_4	Prod_5	Health	22	2.31	138	50.82	116	0
+5/19/2025	Store_2	Prod_1	Pet Supplies	23	16.52	149	379.96	126	0
+5/20/2025	Store_3	Prod_1	Health	18	3.41	171	61.38	153	0
+5/21/2025	Store_2	Prod_11	Beverages	21	11.72	139	246.12	118	0
+5/22/2025	Store_5	Prod_3	Snacks	19	8.38	181	159.22	162	0
+5/23/2025	Store_3	Prod_17	Snacks	20	14.32	63	286.4	43	0
+5/24/2025	Store_2	Prod_3	Pet Supplies	12	4.64	199	55.68	187	0
+5/25/2025	Store_2	Prod_4	Pet Supplies	16	17.75	180	284	164	0
+5/26/2025	Store_5	Prod_8	Beverages	26	20.18	134	524.68	108	0
+5/27/2025	Store_2	Prod_20	Beverages	15	5.34	70	80.1	55	0
+5/28/2025	Store_1	Prod_11	Household	22	3.95	75	86.9	53	0
+5/29/2025	Store_3	Prod_17	Pet Supplies	21	4.92	90	103.32	69	0
+5/30/2025	Store_4	Prod_20	Snacks	16	22.11	171	353.76	155	0
+5/31/2025	Store_3	Prod_14	Health	12	13.91	87	166.92	75	0
+6/1/2025	Store_3	Prod_7	Beverages	17	12.48	137	212.16	120	0
+6/2/2025	Store_4	Prod_16	Snacks	23	4.01	60	92.23	37	0
+6/3/2025	Store_5	Prod_7	Pet Supplies	18	16.76	78	301.68	60	0
+6/4/2025	Store_5	Prod_12	Health	26	21.9	109	569.4	83	2
+6/5/2025	Store_4	Prod_16	Beverages	19	20.96	110	398.24	91	0
+6/6/2025	Store_4	Prod_9	Snacks	20	16.21	196	324.2	176	0
+6/7/2025	Store_5	Prod_18	Snacks	27	3.27	71	88.29	44	0
+6/8/2025	Store_1	Prod_13	Pet Supplies	17	4.14	127	70.38	110	0
+6/9/2025	Store_5	Prod_1	Beverages	27	2.66	162	71.82	135	0
+6/10/2025	Store_3	Prod_13	Health	22	7.55	172	166.1	150	0
+6/11/2025	Store_4	Prod_4	Beverages	23	4.69	191	107.87	168	0
+6/12/2025	Store_1	Prod_10	Snacks	15	7.61	93	114.15	78	0
+6/13/2025	Store_5	Prod_2	Snacks	34	10.55	193	358.7	159	0
+6/14/2025	Store_1	Prod_14	Pet Supplies	25	23.66	146	591.5	121	0
+6/15/2025	Store_4	Prod_18	Pet Supplies	19	15.84	126	300.96	107	0
+6/16/2025	Store_2	Prod_1	Beverages	18	21.12	189	380.16	171	0
+6/17/2025	Store_3	Prod_18	Pet Supplies	15	18.19	104	272.85	89	0
+6/18/2025	Store_1	Prod_10	Pet Supplies	33	4.14	100	136.62	67	0
+6/19/2025	Store_1	Prod_6	Snacks	22	18.79	151	413.38	129	0
+6/20/2025	Store_2	Prod_12	Household	24	7.96	78	191.04	54	0
+6/21/2025	Store_3	Prod_2	Pet Supplies	33	16.52	118	545.16	85	0
+6/22/2025	Store_5	Prod_20	Snacks	16	9.51	129	152.16	113	0
+6/23/2025	Store_4	Prod_10	Snacks	15	24.95	80	374.25	65	0
+6/24/2025	Store_3	Prod_16	Household	18	7.69	161	138.42	143	0
+6/25/2025	Store_2	Prod_6	Snacks	19	8.06	95	153.14	76	0
+6/26/2025	Store_2	Prod_20	Snacks	22	23.37	146	514.14	124	0
+6/27/2025	Store_1	Prod_11	Snacks	15	2.08	101	31.2	86	0
+6/28/2025	Store_3	Prod_12	Health	22	17.87	187	393.14	165	0
+6/29/2025	Store_2	Prod_14	Pet Supplies	21	18.55	123	389.55	102	0
+6/30/2025	Store_4	Prod_1	Pet Supplies	16	21.15	90	338.4	74	0
+7/1/2025	Store_1	Prod_13	Pet Supplies	17	24.4	126	414.8	109	0
+7/2/2025	Store_5	Prod_20	Health	20	24.43	180	488.6	160	0
+7/3/2025	Store_4	Prod_20	Pet Supplies	9	3.03	163	27.27	154	0
+7/4/2025	Store_3	Prod_1	Pet Supplies	19	20.81	101	395.39	82	0
+7/5/2025	Store_5	Prod_5	Beverages	17	16.69	136	283.73	119	0
+7/6/2025	Store_3	Prod_17	Health	9	16.71	158	150.39	149	0
+7/7/2025	Store_4	Prod_11	Household	19	4.52	190	85.88	171	0
+7/8/2025	Store_5	Prod_12	Household	20	16.78	118	335.6	98	0
+7/9/2025	Store_3	Prod_19	Snacks	14	24.59	169	344.26	155	0
+7/10/2025	Store_2	Prod_2	Pet Supplies	17	22.93	116	389.81	99	0
+7/11/2025	Store_2	Prod_12	Snacks	16	11.82	110	189.12	94	0
+7/12/2025	Store_3	Prod_19	Health	33	2.44	120	80.52	87	0
+7/13/2025	Store_5	Prod_4	Beverages	22	10.01	79	220.22	57	0
+7/14/2025	Store_1	Prod_7	Snacks	26	20.92	195	543.92	169	0
+7/15/2025	Store_3	Prod_10	Pet Supplies	29	17.99	145	521.71	116	0
+7/16/2025	Store_5	Prod_13	Household	20	12.29	105	245.8	85	0
+7/17/2025	Store_2	Prod_9	Snacks	26	2.79	102	72.54	76	0
+7/18/2025	Store_4	Prod_14	Pet Supplies	23	11.53	56	265.19	33	0
+7/19/2025	Store_5	Prod_20	Health	16	12.52	146	200.32	130	0
+7/20/2025	Store_3	Prod_11	Beverages	18	23.32	162	419.76	144	0
+7/21/2025	Store_2	Prod_10	Pet Supplies	13	16.57	174	215.41	161	0
+7/22/2025	Store_3	Prod_18	Health	21	8.82	181	185.22	160	0
+7/23/2025	Store_5	Prod_13	Beverages	26	13.84	170	359.84	144	0
+7/24/2025	Store_4	Prod_8	Beverages	18	3.05	87	54.9	69	0
+7/25/2025	Store_2	Prod_3	Snacks	24	24.36	171	584.64	147	0
+7/26/2025	Store_1	Prod_19	Household	24	9.96	75	239.04	51	0
+7/27/2025	Store_3	Prod_3	Beverages	25	12.73	178	318.25	153	0
+7/28/2025	Store_4	Prod_16	Household	21	9.85	53	206.85	32	0
+7/29/2025	Store_3	Prod_19	Beverages	18	17.54	88	315.72	70	0
+7/30/2025	Store_4	Prod_18	Snacks	19	17.06	103	324.14	84	2
+7/31/2025	Store_4	Prod_14	Beverages	18	18.31	82	329.58	64	0
+8/1/2025	Store_4	Prod_3	Health	16	7.8	69	124.8	53	0
+8/2/2025	Store_1	Prod_2	Pet Supplies	16	8.92	65	142.72	49	2
+8/3/2025	Store_4	Prod_20	Health	21	4.44	198	93.24	177	0
+8/4/2025	Store_5	Prod_10	Health	22	16.9	176	371.8	154	0
+8/5/2025	Store_5	Prod_4	Household	18	2.44	136	43.92	118	0
+8/6/2025	Store_2	Prod_9	Health	20	15.55	131	311	111	0
+8/7/2025	Store_4	Prod_7	Beverages	18	21.94	111	394.92	93	0
+8/8/2025	Store_4	Prod_3	Snacks	21	22.43	80	471.03	59	0
+8/9/2025	Store_5	Prod_15	Pet Supplies	21	12.05	91	253.05	70	0
+8/10/2025	Store_2	Prod_9	Health	31	12.29	61	380.99	30	0
+8/11/2025	Store_3	Prod_10	Household	15	3.31	114	49.65	99	0
+8/12/2025	Store_5	Prod_7	Health	18	17.26	122	310.68	104	0
+8/13/2025	Store_3	Prod_10	Pet Supplies	20	20.8	180	416	160	0
+8/14/2025	Store_4	Prod_16	Pet Supplies	17	7.25	164	123.25	147	0
+8/15/2025	Store_4	Prod_11	Beverages	24	11.4	186	273.6	162	0
+8/16/2025	Store_1	Prod_3	Health	17	21.21	155	360.57	138	0
+8/17/2025	Store_2	Prod_12	Pet Supplies	23	22.11	65	508.53	42	0
+8/18/2025	Store_3	Prod_16	Beverages	19	7.21	127	136.99	108	0
+8/19/2025	Store_4	Prod_20	Snacks	15	14.44	174	216.6	159	0
+8/20/2025	Store_4	Prod_12	Beverages	15	6.02	180	90.3	165	0
+8/21/2025	Store_3	Prod_6	Snacks	23	3.89	190	89.47	167	0
+8/22/2025	Store_4	Prod_12	Beverages	21	22.91	179	481.11	158	0
+8/23/2025	Store_2	Prod_20	Beverages	32	20.78	161	664.96	129	0
+8/24/2025	Store_1	Prod_2	Health	24	19.36	176	464.64	152	0
+8/25/2025	Store_1	Prod_14	Household	30	2.65	70	79.5	40	0
+8/26/2025	Store_4	Prod_10	Snacks	16	21.33	196	341.28	180	0
+8/27/2025	Store_5	Prod_8	Snacks	21	11.79	138	247.59	117	0
+8/28/2025	Store_2	Prod_19	Health	18	9.55	96	171.9	78	0
+8/29/2025	Store_5	Prod_4	Health	24	14.34	199	344.16	175	0
+8/30/2025	Store_3	Prod_18	Health	25	3.65	134	91.25	109	0
+8/31/2025	Store_1	Prod_2	Beverages	22	19.28	177	424.16	155	0
+9/1/2025	Store_4	Prod_10	Health	22	15.19	121	334.18	99	0
+9/2/2025	Store_5	Prod_1	Pet Supplies	21	5.88	91	123.48	70	0
+9/3/2025	Store_4	Prod_20	Household	16	5.92	58	94.72	42	0
+9/4/2025	Store_4	Prod_2	Household	21	5.83	74	122.43	53	0
+9/5/2025	Store_4	Prod_11	Pet Supplies	16	2.84	51	45.44	35	0
+9/6/2025	Store_4	Prod_19	Beverages	21	15.31	68	321.51	47	0
+9/7/2025	Store_1	Prod_7	Health	23	21.25	69	488.75	46	0
+9/8/2025	Store_3	Prod_7	Beverages	19	1.91	119	36.29	100	0
+9/9/2025	Store_5	Prod_8	Household	14	2.65	66	37.1	52	0
+9/10/2025	Store_3	Prod_11	Snacks	23	14.96	173	344.08	150	0
+9/11/2025	Store_1	Prod_5	Pet Supplies	17	20.76	138	352.92	121	0
+9/12/2025	Store_5	Prod_9	Health	15	9.18	143	137.7	128	0
+9/13/2025	Store_4	Prod_10	Beverages	16	9.72	133	155.52	117	0
+9/14/2025	Store_5	Prod_10	Household	12	15.51	180	186.12	168	0
+9/15/2025	Store_2	Prod_15	Pet Supplies	12	7.94	136	95.28	124	0
+9/16/2025	Store_4	Prod_15	Health	16	2.13	100	34.08	84	0
+9/17/2025	Store_2	Prod_9	Household	26	18.78	131	488.28	105	0
+9/18/2025	Store_4	Prod_5	Snacks	20	16.2	57	324	37	0
+9/19/2025	Store_1	Prod_6	Snacks	18	15.15	170	272.7	152	0
+9/20/2025	Store_5	Prod_2	Household	21	18.93	53	397.53	32	0
+9/21/2025	Store_4	Prod_15	Health	19	17.37	135	330.03	116	0
+9/22/2025	Store_5	Prod_14	Health	15	6.34	177	95.1	162	0
+9/23/2025	Store_5	Prod_15	Health	16	9.78	159	156.48	143	0
+9/24/2025	Store_1	Prod_11	Snacks	13	4.46	148	57.98	135	0
+9/25/2025	Store_1	Prod_14	Pet Supplies	24	4.55	86	109.2	62	0
+9/26/2025	Store_1	Prod_14	Pet Supplies	22	17.39	120	382.58	98	0
+9/27/2025	Store_4	Prod_4	Household	28	21.68	82	607.04	54	0
+9/28/2025	Store_1	Prod_18	Pet Supplies	19	24.12	80	458.28	61	0
+9/29/2025	Store_2	Prod_1	Health	20	16.27	174	325.4	154	0
+9/30/2025	Store_2	Prod_14	Health	20	5.83	61	116.6	41	0
+10/1/2025	Store_2	Prod_16	Beverages	13	3.98	60	51.74	47	0
+10/2/2025	Store_3	Prod_3	Snacks	14	20.6	137	288.4	123	0
+10/3/2025	Store_2	Prod_18	Health	24	15.1	121	362.4	97	0
+10/4/2025	Store_1	Prod_20	Pet Supplies	17	16.03	81	272.51	64	0
+10/5/2025	Store_4	Prod_12	Beverages	13	19.86	106	258.18	93	0
+10/6/2025	Store_1	Prod_10	Snacks	21	18.03	135	378.63	114	0
+10/7/2025	Store_5	Prod_12	Beverages	19	21.11	68	401.09	49	0
+10/8/2025	Store_5	Prod_14	Health	21	2.82	165	59.22	144	0
+10/9/2025	Store_5	Prod_10	Pet Supplies	28	19.07	63	533.96	35	0
+10/10/2025	Store_4	Prod_16	Health	14	21.5	82	301	68	0
+10/11/2025	Store_2	Prod_8	Household	18	8.22	59	147.96	41	0
+10/12/2025	Store_2	Prod_6	Beverages	24	16.55	129	397.2	105	0
+10/13/2025	Store_2	Prod_16	Pet Supplies	12	8.88	113	106.56	101	0
+10/14/2025	Store_2	Prod_15	Beverages	15	24.01	117	360.15	102	0
+10/15/2025	Store_3	Prod_6	Snacks	22	2.29	141	50.38	119	0
+10/16/2025	Store_4	Prod_3	Beverages	28	15.13	174	423.64	146	0
+10/17/2025	Store_5	Prod_5	Pet Supplies	21	5.41	129	113.61	108	0
+10/18/2025	Store_1	Prod_16	Beverages	15	18.24	108	273.6	93	0
+10/19/2025	Store_2	Prod_3	Beverages	19	5.63	146	106.97	127	0
+10/20/2025	Store_5	Prod_6	Beverages	18	7.03	68	126.54	50	0
+10/21/2025	Store_1	Prod_15	Household	32	13.12	198	419.84	166	2
+10/22/2025	Store_3	Prod_15	Pet Supplies	17	23	71	391	54	0
+10/23/2025	Store_4	Prod_9	Snacks	19	6.48	58	123.12	39	0
+10/24/2025	Store_2	Prod_1	Beverages	22	4.89	58	107.58	36	0
+10/25/2025	Store_4	Prod_4	Snacks	22	19.34	76	425.48	54	0
+10/26/2025	Store_1	Prod_17	Beverages	15	13.26	66	198.9	51	2
+10/27/2025	Store_3	Prod_1	Snacks	24	22.93	94	550.32	70	0
+10/28/2025	Store_2	Prod_14	Snacks	11	4.95	57	54.45	46	0
+10/29/2025	Store_3	Prod_20	Health	14	16.68	195	233.52	181	0
+10/30/2025	Store_3	Prod_7	Pet Supplies	17	6.97	174	118.49	157	0
+10/31/2025	Store_2	Prod_7	Health	23	5.18	172	119.14	149	0
+11/1/2025	Store_2	Prod_5	Health	25	17.56	82	439	57	0
+11/2/2025	Store_5	Prod_20	Health	17	15.45	50	262.65	33	0
+11/3/2025	Store_5	Prod_2	Pet Supplies	20	19.24	55	384.8	35	0
+11/4/2025	Store_1	Prod_16	Beverages	19	8.77	90	166.63	71	0
+11/5/2025	Store_4	Prod_1	Household	18	12.03	54	216.54	36	0
+11/6/2025	Store_3	Prod_3	Health	24	11.03	129	264.72	105	0
+11/7/2025	Store_5	Prod_18	Beverages	19	24.63	67	467.97	48	0
+11/8/2025	Store_4	Prod_17	Beverages	24	8.37	131	200.88	107	0
+11/9/2025	Store_1	Prod_16	Pet Supplies	20	8.43	114	168.6	94	0
+11/10/2025	Store_1	Prod_18	Pet Supplies	31	9.83	132	304.73	101	0
+11/11/2025	Store_5	Prod_18	Household	13	14.77	185	192.01	172	0
+11/12/2025	Store_5	Prod_13	Beverages	19	7.43	180	141.17	161	0
+11/13/2025	Store_5	Prod_5	Beverages	13	23.01	74	299.13	61	2
+11/14/2025	Store_4	Prod_15	Beverages	15	7.74	118	116.1	103	0
+11/15/2025	Store_3	Prod_3	Pet Supplies	23	22.55	131	518.65	108	2
+11/16/2025	Store_1	Prod_14	Beverages	18	3.93	166	70.74	148	0
+11/17/2025	Store_4	Prod_9	Beverages	19	16.93	144	321.67	125	0
+11/18/2025	Store_5	Prod_5	Health	24	22.81	82	547.44	58	0
+11/19/2025	Store_2	Prod_15	Beverages	23	5.47	160	125.81	137	0
+11/20/2025	Store_2	Prod_14	Snacks	19	24.26	195	460.94	176	0
+11/21/2025	Store_3	Prod_9	Household	22	12.14	174	267.08	152	0
+11/22/2025	Store_4	Prod_6	Household	11	23.72	65	260.92	54	0
+11/23/2025	Store_4	Prod_16	Pet Supplies	15	17.41	129	261.15	114	0
+11/24/2025	Store_4	Prod_7	Health	20	8.59	87	171.8	67	0
+11/25/2025	Store_2	Prod_11	Beverages	9	5.93	184	53.37	175	0
+11/26/2025	Store_2	Prod_19	Pet Supplies	23	8.64	127	198.72	104	0
+11/27/2025	Store_2	Prod_8	Beverages	12	3.69	112	44.28	100	0
+11/28/2025	Store_3	Prod_20	Beverages	18	4.88	161	87.84	143	0
+11/29/2025	Store_2	Prod_20	Snacks	18	3.96	138	71.28	120	0
+11/30/2025	Store_5	Prod_13	Health	22	11.44	87	251.68	65	2
+12/1/2025	Store_4	Prod_19	Snacks	15	20.2	199	303	184	0
+12/2/2025	Store_5	Prod_19	Beverages	22	4.82	193	106.04	171	0
+12/3/2025	Store_2	Prod_12	Household	17	4.56	101	77.52	84	0
+12/4/2025	Store_4	Prod_3	Pet Supplies	17	16.62	78	282.54	61	0
+12/5/2025	Store_3	Prod_18	Health	22	6.13	193	134.86	171	2
+12/6/2025	Store_3	Prod_17	Health	16	3.79	125	60.64	109	0
+12/7/2025	Store_3	Prod_6	Pet Supplies	21	5.42	194	113.82	173	0
+12/8/2025	Store_5	Prod_7	Household	22	23.21	113	510.62	91	0
+12/9/2025	Store_1	Prod_17	Health	24	20.8	140	499.2	116	0
+12/10/2025	Store_3	Prod_17	Household	21	9.82	138	206.22	117	0
+12/11/2025	Store_5	Prod_5	Pet Supplies	25	16.91	62	422.75	37	0
+12/12/2025	Store_1	Prod_10	Snacks	14	14.13	121	197.82	107	0
+12/13/2025	Store_4	Prod_6	Pet Supplies	28	17.41	54	487.48	26	0
+12/14/2025	Store_3	Prod_14	Beverages	18	17.54	61	315.72	43	0
+12/15/2025	Store_1	Prod_7	Pet Supplies	19	16.28	52	309.32	33	0
+12/16/2025	Store_1	Prod_7	Pet Supplies	29	7.75	82	224.75	53	0
+12/17/2025	Store_1	Prod_11	Beverages	14	2.42	170	33.88	156	0
+12/18/2025	Store_3	Prod_3	Pet Supplies	26	12.21	99	317.46	73	0
+12/19/2025	Store_5	Prod_3	Snacks	17	22.44	186	381.48	169	0
+12/20/2025	Store_2	Prod_1	Household	28	14.88	78	416.64	50	0
+12/21/2025	Store_4	Prod_4	Household	24	21.06	88	505.44	64	0
+12/22/2025	Store_1	Prod_20	Health	25	24.8	140	620	115	0
+12/23/2025	Store_2	Prod_4	Pet Supplies	24	5.34	149	128.16	125	0
+12/24/2025	Store_4	Prod_9	Household	15	17.76	66	266.4	51	0
+12/25/2025	Store_3	Prod_8	Household	9	17.35	105	156.15	96	2
+12/26/2025	Store_2	Prod_8	Snacks	14	24.53	95	343.42	81	0
+12/27/2025	Store_1	Prod_15	Snacks	25	24.66	116	616.5	91	0
+12/28/2025	Store_4	Prod_20	Snacks	20	17.64	191	352.8	171	0
+12/29/2025	Store_4	Prod_18	Pet Supplies	23	7.22	116	166.06	93	0
+12/30/2025	Store_4	Prod_2	Snacks	21	20.27	72	425.67	51	0
+12/31/2025	Store_5	Prod_11	Health	17	4.02	143	68.34	126	0
+1/1/2026	Store_1	Prod_17	Beverages	22	19.85	103	436.7	81	0
+1/2/2026	Store_2	Prod_14	Household	15	22.89	187	343.35	172	0
+1/3/2026	Store_5	Prod_19	Health	13	10.5	126	136.5	113	0
+1/4/2026	Store_3	Prod_10	Snacks	24	16.32	65	391.68	41	0
+1/5/2026	Store_5	Prod_5	Health	21	11.61	90	243.81	69	0
+1/6/2026	Store_5	Prod_19	Snacks	21	11.79	147	247.59	126	0
+1/7/2026	Store_1	Prod_13	Beverages	18	8.79	177	158.22	159	0
+1/8/2026	Store_1	Prod_12	Pet Supplies	21	19.41	110	407.61	89	0
+1/9/2026	Store_5	Prod_2	Household	24	23.5	135	564	111	0
+1/10/2026	Store_2	Prod_5	Pet Supplies	23	23.61	167	543.03	144	0
+1/11/2026	Store_5	Prod_17	Snacks	31	5.61	149	173.91	118	0
+1/12/2026	Store_3	Prod_7	Beverages	18	22.06	98	397.08	80	0
+1/13/2026	Store_4	Prod_5	Beverages	17	18.83	51	320.11	34	0
+1/14/2026	Store_1	Prod_10	Beverages	19	7.44	169	141.36	150	0
+1/15/2026	Store_4	Prod_9	Household	26	3.08	172	80.08	146	0
+1/16/2026	Store_3	Prod_18	Snacks	18	7.8	135	140.4	117	0
+1/17/2026	Store_1	Prod_18	Health	23	22.94	126	527.62	103	0
+1/18/2026	Store_4	Prod_3	Health	22	16.38	185	360.36	163	0
+1/19/2026	Store_2	Prod_5	Beverages	24	18.44	108	442.56	84	0
+1/20/2026	Store_2	Prod_5	Pet Supplies	21	7.54	61	158.34	40	0
+1/21/2026	Store_4	Prod_5	Household	22	18.41	53	405.02	31	0
+1/22/2026	Store_1	Prod_4	Snacks	21	2.16	166	45.36	145	0
+1/23/2026	Store_3	Prod_4	Snacks	21	10.32	144	216.72	123	0
+1/24/2026	Store_1	Prod_7	Beverages	22	16.23	174	357.06	152	0
+1/25/2026	Store_1	Prod_18	Household	17	4.93	90	83.81	73	0
+1/26/2026	Store_3	Prod_8	Household	20	20.84	172	416.8	152	0
+1/27/2026	Store_5	Prod_14	Pet Supplies	11	7.02	56	77.22	45	0
+1/28/2026	Store_5	Prod_1	Beverages	24	16.83	118	403.92	94	0
+1/29/2026	Store_2	Prod_1	Health	24	11.02	118	264.48	94	0
+1/30/2026	Store_2	Prod_2	Household	19	15.51	130	294.69	111	0
+1/31/2026	Store_4	Prod_13	Snacks	18	4.03	79	72.54	61	0
+2/1/2026	Store_1	Prod_4	Snacks	13	1.9	122	24.7	109	2
+2/2/2026	Store_4	Prod_17	Health	21	22.87	55	480.27	34	0
+2/3/2026	Store_1	Prod_17	Household	22	7.84	138	172.48	116	0
+2/4/2026	Store_4	Prod_5	Pet Supplies	22	20.76	196	456.72	174	0
+2/5/2026	Store_3	Prod_2	Pet Supplies	14	24.98	115	349.72	101	2
+2/6/2026	Store_2	Prod_15	Health	25	6.47	59	161.75	34	0
+2/7/2026	Store_1	Prod_5	Pet Supplies	21	7.73	193	162.33	172	0
+2/8/2026	Store_5	Prod_18	Health	15	17.08	86	256.2	71	0
+2/9/2026	Store_5	Prod_15	Pet Supplies	18	24.19	126	435.42	108	0
+2/10/2026	Store_5	Prod_15	Health	17	23.02	126	391.34	109	0
+2/11/2026	Store_5	Prod_4	Beverages	17	13.32	81	226.44	64	0
+2/12/2026	Store_5	Prod_14	Snacks	19	20.19	96	383.61	77	0
+2/13/2026	Store_1	Prod_15	Beverages	14	4.69	159	65.66	145	0
+2/14/2026	Store_4	Prod_19	Beverages	23	24.47	169	562.81	146	0
+2/15/2026	Store_4	Prod_19	Household	19	24.16	59	459.04	40	0
+2/16/2026	Store_2	Prod_20	Health	24	5.35	146	128.4	122	0
+2/17/2026	Store_2	Prod_16	Household	21	8.54	54	179.34	33	0
+2/18/2026	Store_1	Prod_5	Beverages	24	3.85	126	92.4	102	0
+2/19/2026	Store_3	Prod_16	Snacks	31	7.89	50	244.59	19	0
+2/20/2026	Store_1	Prod_19	Health	11	20.67	180	227.37	169	0
+2/21/2026	Store_3	Prod_6	Health	17	10.39	116	176.63	99	0
+2/22/2026	Store_1	Prod_11	Beverages	27	3.58	64	96.66	37	0
+2/23/2026	Store_5	Prod_7	Pet Supplies	17	9.54	142	162.18	125	0
+2/24/2026	Store_5	Prod_14	Beverages	19	24.56	79	466.64	60	0
+2/25/2026	Store_5	Prod_18	Beverages	11	16.3	152	179.3	141	2
+2/26/2026	Store_3	Prod_17	Snacks	7	11.28	131	78.96	124	2
+2/27/2026	Store_5	Prod_9	Snacks	27	5.41	124	146.07	97	0
+2/28/2026	Store_1	Prod_10	Health	20	24.68	109	493.6	89	0
+3/1/2026	Store_2	Prod_3	Pet Supplies	18	20.79	89	374.22	71	0
+3/2/2026	Store_5	Prod_7	Pet Supplies	29	8.11	123	235.19	94	0
+3/3/2026	Store_1	Prod_12	Beverages	19	3.15	170	59.85	151	0
+3/4/2026	Store_5	Prod_17	Health	16	2.83	196	45.28	180	0
+3/5/2026	Store_1	Prod_5	Beverages	15	4.33	52	64.95	37	0
+3/6/2026	Store_1	Prod_13	Pet Supplies	21	15.15	85	318.15	64	0
+3/7/2026	Store_2	Prod_3	Beverages	14	23.33	92	326.62	78	0
+3/8/2026	Store_3	Prod_11	Household	16	13.17	192	210.72	176	0
+3/9/2026	Store_2	Prod_20	Beverages	25	21.31	164	532.75	139	0
+3/10/2026	Store_3	Prod_20	Pet Supplies	20	11.98	158	239.6	138	0
+3/11/2026	Store_2	Prod_6	Household	12	18.15	139	217.8	127	0
+3/12/2026	Store_5	Prod_2	Beverages	21	18.7	133	392.7	112	0
+3/13/2026	Store_4	Prod_11	Pet Supplies	19	5.59	126	106.21	107	0
+3/14/2026	Store_1	Prod_10	Snacks	25	9.99	54	249.75	29	0
+3/15/2026	Store_4	Prod_13	Pet Supplies	19	16.48	127	313.12	108	0
+3/16/2026	Store_2	Prod_2	Household	22	3.16	140	69.52	118	0
+3/17/2026	Store_3	Prod_12	Household	11	10	136	110	125	0
+3/18/2026	Store_1	Prod_16	Snacks	24	14.07	63	337.68	39	0
+3/19/2026	Store_5	Prod_2	Snacks	16	24.91	153	398.56	137	0
+3/20/2026	Store_2	Prod_16	Snacks	15	12.65	132	189.75	117	0
+3/21/2026	Store_5	Prod_5	Beverages	24	20.68	103	496.32	79	0
+3/22/2026	Store_1	Prod_20	Beverages	16	11.65	181	186.4	165	0
+3/23/2026	Store_1	Prod_7	Household	16	20.22	144	323.52	128	0
+3/24/2026	Store_5	Prod_7	Beverages	19	15.49	58	294.31	39	0
+3/25/2026	Store_1	Prod_7	Pet Supplies	20	22.33	102	446.6	82	2
+3/26/2026	Store_5	Prod_7	Snacks	13	11.16	126	145.08	113	0
+3/27/2026	Store_2	Prod_15	Household	25	15.7	109	392.5	84	0
+3/28/2026	Store_5	Prod_13	Beverages	16	16.31	95	260.96	79	0
+3/29/2026	Store_2	Prod_17	Household	17	11.31	103	192.27	86	0
+3/30/2026	Store_3	Prod_2	Health	21	4.89	123	102.69	102	0
+3/31/2026	Store_5	Prod_7	Beverages	24	3.7	161	88.8	137	0
+4/1/2026	Store_2	Prod_7	Household	27	1.89	144	51.03	117	0
+4/2/2026	Store_4	Prod_7	Health	15	22.03	72	330.45	57	0
+4/3/2026	Store_1	Prod_19	Household	24	7.06	76	169.44	52	0
+4/4/2026	Store_5	Prod_1	Beverages	14	6.47	119	90.58	105	2
+4/5/2026	Store_1	Prod_2	Health	22	18.8	158	413.6	136	0
+4/6/2026	Store_4	Prod_18	Snacks	19	9.02	126	171.38	107	0
+4/7/2026	Store_3	Prod_15	Pet Supplies	24	13.39	99	321.36	75	0
+4/8/2026	Store_4	Prod_15	Pet Supplies	22	5.32	173	117.04	151	0
+4/9/2026	Store_1	Prod_15	Beverages	26	24.05	68	625.3	42	0
+4/10/2026	Store_2	Prod_16	Snacks	15	21.51	50	322.65	35	0
+4/11/2026	Store_5	Prod_11	Household	21	21.8	89	457.8	68	0
+4/12/2026	Store_3	Prod_18	Household	25	11.06	71	276.5	46	0
+4/13/2026	Store_3	Prod_10	Household	23	19.42	161	446.66	138	0
+4/14/2026	Store_2	Prod_17	Snacks	20	4.88	89	97.6	69	0
+4/15/2026	Store_4	Prod_3	Beverages	19	1.7	87	32.3	68	0
+4/16/2026	Store_5	Prod_3	Household	20	1.97	97	39.4	77	0
+4/17/2026	Store_5	Prod_4	Beverages	18	15.29	124	275.22	106	0
+4/18/2026	Store_4	Prod_4	Household	13	12.2	156	158.6	143	0
+4/19/2026	Store_1	Prod_7	Health	14	13.67	57	191.38	43	0
+4/20/2026	Store_4	Prod_1	Pet Supplies	19	1.68	135	31.92	116	0
+4/21/2026	Store_5	Prod_19	Health	22	11.43	117	251.46	95	0
+4/22/2026	Store_3	Prod_4	Beverages	18	18.37	124	330.66	106	0
+4/23/2026	Store_5	Prod_5	Household	22	11.9	186	261.8	164	0
+4/24/2026	Store_1	Prod_6	Pet Supplies	22	18.71	139	411.62	117	0
+4/25/2026	Store_5	Prod_16	Household	23	6.98	179	160.54	156	2
+4/26/2026	Store_3	Prod_6	Snacks	16	20.61	129	329.76	113	0
+4/27/2026	Store_4	Prod_15	Health	17	15.33	144	260.61	127	0
+4/28/2026	Store_1	Prod_10	Beverages	23	6.45	119	148.35	96	0
+4/29/2026	Store_5	Prod_13	Beverages	17	7.06	139	120.02	122	0
+4/30/2026	Store_4	Prod_13	Pet Supplies	24	16.26	108	390.24	84	0
+5/1/2026	Store_5	Prod_11	Beverages	17	21	196	357	179	0
+5/2/2026	Store_2	Prod_10	Health	22	11.27	77	247.94	55	0
+5/3/2026	Store_5	Prod_12	Snacks	13	7.57	121	98.41	108	0
+5/4/2026	Store_2	Prod_11	Beverages	19	21.87	63	415.53	44	0
+5/5/2026	Store_2	Prod_9	Pet Supplies	21	17.23	73	361.83	52	0
+5/6/2026	Store_3	Prod_2	Health	36	12.03	161	433.08	125	0
+5/7/2026	Store_5	Prod_10	Health	19	12.97	93	246.43	74	0
+5/8/2026	Store_1	Prod_11	Health	17	6.3	105	107.1	88	0
+5/9/2026	Store_5	Prod_15	Household	17	16.23	169	275.91	152	0
+5/10/2026	Store_5	Prod_2	Snacks	23	9.93	81	228.39	58	0
+5/11/2026	Store_3	Prod_13	Snacks	25	24.9	74	622.5	49	0
+5/12/2026	Store_1	Prod_3	Pet Supplies	26	12.78	165	332.28	139	2
+5/13/2026	Store_4	Prod_1	Beverages	23	12.92	115	297.16	92	0
+5/14/2026	Store_5	Prod_13	Health	13	14.8	91	192.4	78	0
+5/15/2026	Store_2	Prod_2	Beverages	17	23.04	125	391.68	108	0
+5/16/2026	Store_4	Prod_8	Snacks	17	20.32	186	345.44	169	0
+5/17/2026	Store_3	Prod_4	Beverages	23	12.1	87	278.3	64	0
+5/18/2026	Store_4	Prod_12	Snacks	22	18.39	110	404.58	88	0
+5/19/2026	Store_1	Prod_16	Snacks	27	15.28	138	412.56	111	0
+5/20/2026	Store_4	Prod_7	Health	12	13.07	67	156.84	55	0
+5/21/2026	Store_4	Prod_16	Snacks	24	6.02	119	144.48	95	0
+5/22/2026	Store_4	Prod_13	Beverages	25	12.4	131	310	106	0
+5/23/2026	Store_2	Prod_17	Household	21	7.28	165	152.88	144	0
+5/24/2026	Store_5	Prod_11	Pet Supplies	22	23	129	506	107	0
+5/25/2026	Store_3	Prod_17	Beverages	26	9.38	64	243.88	38	0
+5/26/2026	Store_1	Prod_20	Health	20	23.88	62	477.6	42	0
+5/27/2026	Store_3	Prod_8	Pet Supplies	17	14.03	168	238.51	151	0
+5/28/2026	Store_5	Prod_19	Pet Supplies	24	16.34	92	392.16	68	0
+5/29/2026	Store_5	Prod_14	Beverages	27	14.26	106	385.02	79	0
+5/30/2026	Store_1	Prod_5	Household	21	4.54	66	95.34	45	0
+5/31/2026	Store_3	Prod_19	Beverages	21	10.33	81	216.93	60	0
+6/1/2026	Store_2	Prod_16	Health	16	3.83	199	61.28	183	0
+6/2/2026	Store_5	Prod_2	Health	13	16.14	104	209.82	91	0
+6/3/2026	Store_2	Prod_18	Pet Supplies	20	12	62	240	42	0
+6/4/2026	Store_4	Prod_18	Household	30	19.78	96	593.4	66	0
+6/5/2026	Store_1	Prod_19	Beverages	23	6.68	136	153.64	113	2
+6/6/2026	Store_1	Prod_12	Beverages	22	5.37	111	118.14	89	0
+6/7/2026	Store_2	Prod_15	Household	16	11.05	78	176.8	62	0
+6/8/2026	Store_3	Prod_2	Health	20	23.27	71	465.4	51	0
+6/9/2026	Store_2	Prod_15	Pet Supplies	14	18.19	114	254.66	100	0
+6/10/2026	Store_2	Prod_1	Beverages	20	11.34	78	226.8	58	0
+6/11/2026	Store_2	Prod_4	Snacks	21	13.66	97	286.86	76	0
+6/12/2026	Store_1	Prod_9	Snacks	16	3.48	54	55.68	38	0
+6/13/2026	Store_2	Prod_13	Health	16	24.64	150	394.24	134	0
+6/14/2026	Store_2	Prod_5	Health	13	17.16	120	223.08	107	0
+6/15/2026	Store_5	Prod_19	Beverages	24	8.21	190	197.04	166	0
+6/16/2026	Store_5	Prod_7	Beverages	20	15.27	187	305.4	167	0
+6/17/2026	Store_1	Prod_15	Snacks	28	4.07	115	113.96	87	0
+6/18/2026	Store_5	Prod_5	Beverages	13	24.2	121	314.6	108	0
+6/19/2026	Store_2	Prod_3	Beverages	14	5.61	74	78.54	60	0
+6/20/2026	Store_2	Prod_7	Snacks	20	16.73	109	334.6	89	0
+6/21/2026	Store_3	Prod_13	Pet Supplies	20	7.27	89	145.4	69	0
+6/22/2026	Store_2	Prod_5	Household	17	18.36	56	312.12	39	0
+6/23/2026	Store_1	Prod_2	Pet Supplies	19	19.76	95	375.44	76	0
+6/24/2026	Store_2	Prod_14	Health	27	17.33	135	467.91	108	0
+6/25/2026	Store_4	Prod_7	Pet Supplies	21	15.94	190	334.74	169	0
+6/26/2026	Store_3	Prod_3	Pet Supplies	25	22.47	70	561.75	45	0
+6/27/2026	Store_5	Prod_8	Snacks	22	3.35	50	73.7	28	0
+6/28/2026	Store_4	Prod_5	Household	17	9.28	172	157.76	155	0
+6/29/2026	Store_4	Prod_2	Beverages	21	7.33	196	153.93	175	0
+6/30/2026	Store_2	Prod_6	Household	14	24.72	174	346.08	160	0
+7/1/2026	Store_1	Prod_12	Household	19	10.65	82	202.35	63	0
+7/2/2026	Store_4	Prod_18	Household	14	18.72	53	262.08	39	0
+7/3/2026	Store_4	Prod_10	Household	24	17.59	52	422.16	28	0
+7/4/2026	Store_1	Prod_14	Household	12	6.48	140	77.76	128	0
+7/5/2026	Store_2	Prod_19	Snacks	29	7.12	101	206.48	72	0
+7/6/2026	Store_3	Prod_18	Beverages	22	8.11	77	178.42	55	0
+7/7/2026	Store_3	Prod_14	Pet Supplies	21	11.16	119	234.36	98	0
+7/8/2026	Store_4	Prod_1	Snacks	21	7.01	106	147.21	85	0
+7/9/2026	Store_1	Prod_4	Health	23	1.96	157	45.08	134	0
+7/10/2026	Store_3	Prod_15	Pet Supplies	27	22.17	193	598.59	166	0
+7/11/2026	Store_5	Prod_18	Household	20	24.19	73	483.8	53	0
+7/12/2026	Store_2	Prod_11	Health	17	9.53	126	162.01	109	0
+7/13/2026	Store_5	Prod_7	Pet Supplies	21	9.45	125	198.45	104	0
+7/14/2026	Store_4	Prod_18	Household	14	1.67	118	23.38	104	0
+7/15/2026	Store_1	Prod_20	Health	18	17.49	150	314.82	132	0
+7/16/2026	Store_1	Prod_12	Pet Supplies	22	20.9	141	459.8	119	0
+7/17/2026	Store_1	Prod_3	Snacks	23	4.95	141	113.85	118	0
+7/18/2026	Store_1	Prod_11	Household	22	5.25	79	115.5	57	0
+7/19/2026	Store_5	Prod_12	Household	17	20.07	67	341.19	50	0
+7/20/2026	Store_4	Prod_4	Pet Supplies	19	15.98	93	303.62	74	0
+7/21/2026	Store_5	Prod_17	Pet Supplies	27	2.55	148	68.85	121	0
+7/22/2026	Store_4	Prod_9	Household	17	16.13	170	274.21	153	0
+7/23/2026	Store_1	Prod_6	Snacks	18	8.76	164	157.68	146	0
+7/24/2026	Store_1	Prod_18	Household	23	10.17	109	233.91	86	0
+7/25/2026	Store_1	Prod_10	Health	18	19.59	195	352.62	177	0
+7/26/2026	Store_2	Prod_10	Beverages	19	20.56	105	390.64	86	0
+7/27/2026	Store_5	Prod_10	Household	26	10.91	80	283.66	54	0
+7/28/2026	Store_3	Prod_5	Snacks	15	23.76	150	356.4	135	0
+7/29/2026	Store_3	Prod_10	Pet Supplies	22	11.05	108	243.1	86	0
+7/30/2026	Store_4	Prod_18	Beverages	18	19.64	173	353.52	155	0
+7/31/2026	Store_5	Prod_10	Beverages	19	12.87	179	244.53	160	0
+8/1/2026	Store_1	Prod_8	Beverages	22	22.59	146	496.98	124	0
+8/2/2026	Store_4	Prod_10	Pet Supplies	18	22.83	156	410.94	138	0
+8/3/2026	Store_4	Prod_7	Household	23	3.55	67	81.65	44	0
+8/4/2026	Store_5	Prod_4	Snacks	20	23.51	194	470.2	174	0
+8/5/2026	Store_4	Prod_2	Snacks	18	20.9	120	376.2	102	0
+8/6/2026	Store_3	Prod_13	Health	15	20.1	155	301.5	140	0
+8/7/2026	Store_5	Prod_13	Pet Supplies	24	6.22	103	149.28	79	0
+8/8/2026	Store_3	Prod_18	Pet Supplies	17	20.42	143	347.14	126	0
+8/9/2026	Store_5	Prod_11	Household	17	21.48	125	365.16	108	0
+8/10/2026	Store_1	Prod_10	Pet Supplies	21	8.3	84	174.3	63	0
+8/11/2026	Store_3	Prod_15	Beverages	31	23.88	60	740.28	29	0
+8/12/2026	Store_5	Prod_8	Beverages	18	2.67	110	48.06	92	0
+8/13/2026	Store_2	Prod_3	Pet Supplies	20	5.02	93	100.4	73	0
+8/14/2026	Store_4	Prod_18	Pet Supplies	21	14.13	170	296.73	149	0
+8/15/2026	Store_1	Prod_10	Snacks	19	15.03	117	285.57	98	0
+8/16/2026	Store_4	Prod_11	Health	17	16.66	74	283.22	57	0
+8/17/2026	Store_3	Prod_7	Beverages	11	1.9	133	20.9	122	0
+8/18/2026	Store_2	Prod_8	Household	21	24.07	163	505.47	142	0
+8/19/2026	Store_4	Prod_3	Snacks	21	2.55	181	53.55	160	0
+8/20/2026	Store_1	Prod_8	Health	19	4.86	50	92.34	31	0
+8/21/2026	Store_3	Prod_15	Snacks	20	1.83	180	36.6	160	2
+8/22/2026	Store_5	Prod_16	Health	22	14.82	135	326.04	113	0
+8/23/2026	Store_5	Prod_3	Snacks	22	23.41	111	515.02	89	0
+8/24/2026	Store_4	Prod_14	Pet Supplies	19	17.15	113	325.85	94	0
+8/25/2026	Store_1	Prod_10	Household	20	20.83	194	416.6	174	0
+8/26/2026	Store_1	Prod_8	Snacks	27	1.81	175	48.87	148	2
+8/27/2026	Store_4	Prod_7	Snacks	20	14.24	154	284.8	134	0
+8/28/2026	Store_4	Prod_14	Pet Supplies	14	12.3	111	172.2	97	0
+8/29/2026	Store_4	Prod_16	Household	14	13.23	84	185.22	70	0
+8/30/2026	Store_4	Prod_19	Beverages	17	3.2	62	54.4	45	0
+8/31/2026	Store_4	Prod_19	Health	29	17.58	92	509.82	63	0
+9/1/2026	Store_4	Prod_10	Pet Supplies	20	13.33	179	266.6	159	0
+9/2/2026	Store_2	Prod_14	Beverages	21	19.48	160	409.08	139	0
+9/3/2026	Store_2	Prod_3	Health	17	12.9	177	219.3	160	0
+9/4/2026	Store_4	Prod_1	Household	24	5.01	100	120.24	76	0
+9/5/2026	Store_2	Prod_18	Health	20	16.73	193	334.6	173	0
+9/6/2026	Store_1	Prod_11	Beverages	21	5.55	195	116.55	174	0
+9/7/2026	Store_2	Prod_1	Snacks	16	22	184	352	168	0
+9/8/2026	Store_3	Prod_11	Beverages	25	15.91	94	397.75	69	0
+9/9/2026	Store_3	Prod_1	Household	19	5.19	91	98.61	72	0
+9/10/2026	Store_5	Prod_18	Health	23	24.11	184	554.53	161	0
+9/11/2026	Store_3	Prod_15	Health	23	13.68	64	314.64	41	0
+9/12/2026	Store_2	Prod_2	Pet Supplies	17	3.21	109	54.57	92	0
+9/13/2026	Store_3	Prod_20	Household	24	16.23	89	389.52	65	0
+9/14/2026	Store_3	Prod_11	Pet Supplies	22	7.45	161	163.9	139	0
+9/15/2026	Store_3	Prod_20	Beverages	17	20.39	126	346.63	109	0
+9/16/2026	Store_5	Prod_4	Household	23	20.72	154	476.56	131	0
+9/17/2026	Store_4	Prod_9	Health	23	24.51	156	563.73	133	0
+9/18/2026	Store_2	Prod_3	Snacks	22	13.29	171	292.38	149	0
+9/19/2026	Store_5	Prod_8	Household	25	12.19	129	304.75	104	0
+9/20/2026	Store_3	Prod_2	Snacks	13	19.21	174	249.73	161	0
+9/21/2026	Store_3	Prod_19	Health	12	4.61	183	55.32	171	0
+9/22/2026	Store_5	Prod_2	Health	19	14.35	81	272.65	62	2
+9/23/2026	Store_2	Prod_1	Beverages	18	14.34	157	258.12	139	0
+9/24/2026	Store_4	Prod_18	Household	20	3.6	163	72	143	0
+9/25/2026	Store_4	Prod_3	Snacks	12	11.32	195	135.84	183	0
+9/26/2026	Store_3	Prod_18	Beverages	24	21.55	117	517.2	93	0
+1/1/2024	Store_4	Prod_19	Pet Supplies	10	21.62	176	216.2	166	0
+1/2/2024	Store_1	Prod_17	Snacks	19	3.83	184	72.77	165	0
+1/3/2024	Store_3	Prod_1	Snacks	16	3.63	163	58.08	147	0
+1/4/2024	Store_4	Prod_15	Pet Supplies	19	7.67	57	145.73	38	0
+1/5/2024	Store_5	Prod_1	Household	17	22.06	113	375.02	96	0
+1/6/2024	Store_5	Prod_16	Pet Supplies	16	4.53	184	72.48	168	0
+1/7/2024	Store_1	Prod_14	Household	18	18.42	90	331.56	72	0
+1/8/2024	Store_2	Prod_7	Health	20	3.88	89	77.6	69	0
+1/9/2024	Store_2	Prod_2	Pet Supplies	21	16.14	52	338.94	31	0
+1/10/2024	Store_1	Prod_17	Household	12	9.87	194	118.44	182	0
+1/11/2024	Store_5	Prod_4	Household	16	20.04	159	320.64	143	0
+1/12/2024	Store_5	Prod_7	Household	21	6.99	163	146.79	142	0
+1/13/2024	Store_3	Prod_20	Health	17	16.52	161	280.84	144	0
+1/14/2024	Store_2	Prod_14	Beverages	17	7.04	199	119.68	182	0
+1/15/2024	Store_5	Prod_3	Household	22	18.27	53	401.94	31	0
+1/16/2024	Store_2	Prod_15	Pet Supplies	23	22.03	183	506.69	160	0
+1/17/2024	Store_1	Prod_13	Snacks	10	4.48	75	44.8	65	0
+1/18/2024	Store_5	Prod_7	Snacks	23	21.86	188	502.78	165	0
+1/19/2024	Store_4	Prod_16	Beverages	25	15.45	66	386.25	41	0
+1/20/2024	Store_5	Prod_4	Health	16	4.49	141	71.84	125	0
+1/21/2024	Store_3	Prod_17	Beverages	17	11.55	80	196.35	63	0
+1/22/2024	Store_4	Prod_13	Health	18	5.28	193	95.04	175	0
+1/23/2024	Store_2	Prod_3	Pet Supplies	25	17.96	156	449	131	0
+1/24/2024	Store_1	Prod_15	Household	19	19.33	195	367.27	176	0
+1/25/2024	Store_2	Prod_19	Beverages	13	3.99	160	51.87	147	0
+1/26/2024	Store_2	Prod_10	Health	20	13.39	150	267.8	130	0
+1/27/2024	Store_5	Prod_3	Beverages	22	20.64	161	454.08	139	0
+1/28/2024	Store_5	Prod_3	Snacks	23	23.5	111	540.5	88	0
+1/29/2024	Store_3	Prod_20	Household	30	13.57	161	407.1	131	0
+1/30/2024	Store_4	Prod_19	Pet Supplies	17	23.83	165	405.11	148	0
+1/31/2024	Store_3	Prod_19	Snacks	24	14.09	84	338.16	60	0
+2/1/2024	Store_4	Prod_20	Household	10	10.76	77	107.6	67	0
+2/2/2024	Store_5	Prod_6	Beverages	31	21.43	152	664.33	121	0
+2/3/2024	Store_3	Prod_12	Beverages	19	13.09	174	248.71	155	0
+2/4/2024	Store_2	Prod_19	Snacks	16	12.59	151	201.44	135	0
+2/5/2024	Store_2	Prod_15	Snacks	18	13.02	186	234.36	168	0
+2/6/2024	Store_1	Prod_5	Pet Supplies	24	21.4	192	513.6	168	0
+2/7/2024	Store_3	Prod_2	Snacks	16	21.05	70	336.8	54	0
+2/8/2024	Store_3	Prod_20	Pet Supplies	20	10.98	101	219.6	81	0
+2/9/2024	Store_3	Prod_19	Snacks	16	9.33	146	149.28	130	0
+2/10/2024	Store_1	Prod_20	Snacks	21	13.06	100	274.26	79	2
+2/11/2024	Store_2	Prod_17	Beverages	14	14.96	132	209.44	118	0
+2/12/2024	Store_1	Prod_6	Health	23	7.1	104	163.3	81	0
+2/13/2024	Store_3	Prod_3	Beverages	22	20.16	126	443.52	104	0
+2/14/2024	Store_2	Prod_18	Beverages	23	12.93	176	297.39	153	0
+2/15/2024	Store_1	Prod_17	Snacks	26	9.35	142	243.1	116	0
+2/16/2024	Store_3	Prod_12	Snacks	18	4.01	137	72.18	119	2
+2/17/2024	Store_2	Prod_9	Snacks	13	7.11	129	92.43	116	0
+2/18/2024	Store_5	Prod_15	Snacks	17	23.81	141	404.77	124	0
+2/19/2024	Store_2	Prod_19	Snacks	18	8.67	96	156.06	78	0
+2/20/2024	Store_2	Prod_14	Pet Supplies	14	5.47	87	76.58	73	0
+2/21/2024	Store_3	Prod_8	Snacks	20	12.33	188	246.6	168	0
+2/22/2024	Store_2	Prod_11	Pet Supplies	20	8.72	64	174.4	44	0
+2/23/2024	Store_2	Prod_15	Pet Supplies	32	2.33	50	74.56	18	0
+2/24/2024	Store_3	Prod_5	Health	22	9.09	184	199.98	162	0
+2/25/2024	Store_2	Prod_20	Health	14	14.29	50	200.06	36	0
+2/26/2024	Store_4	Prod_3	Pet Supplies	14	14.47	98	202.58	84	0
+2/27/2024	Store_3	Prod_10	Household	24	9.88	145	237.12	121	2
+2/28/2024	Store_2	Prod_20	Snacks	18	12.01	75	216.18	57	0
+2/29/2024	Store_5	Prod_2	Pet Supplies	25	24.19	136	604.75	111	0
+3/1/2024	Store_2	Prod_16	Snacks	24	10.37	142	248.88	118	0
+3/2/2024	Store_3	Prod_12	Snacks	19	7.57	151	143.83	132	2
+3/3/2024	Store_4	Prod_17	Pet Supplies	11	7.22	120	79.42	109	0
+3/4/2024	Store_5	Prod_17	Household	16	12.26	189	196.16	173	0
+3/5/2024	Store_2	Prod_6	Beverages	23	19.35	144	445.05	121	0
+3/6/2024	Store_1	Prod_13	Health	29	6.34	167	183.86	138	0
+3/7/2024	Store_3	Prod_6	Health	32	18.17	197	581.44	165	0
+3/8/2024	Store_5	Prod_5	Health	18	2	168	36	150	2
+3/9/2024	Store_2	Prod_20	Snacks	15	11.34	100	170.1	85	2
+3/10/2024	Store_1	Prod_9	Beverages	22	19.73	130	434.06	108	0
+3/11/2024	Store_2	Prod_9	Pet Supplies	21	9.46	85	198.66	64	0
+3/12/2024	Store_3	Prod_20	Snacks	25	14.75	116	368.75	91	0
+3/13/2024	Store_1	Prod_17	Beverages	18	6.32	178	113.76	160	2
+3/14/2024	Store_1	Prod_13	Beverages	17	18.94	163	321.98	146	0
+3/15/2024	Store_3	Prod_3	Health	28	2.73	160	76.44	132	0
+3/16/2024	Store_5	Prod_3	Snacks	20	21.53	191	430.6	171	0
+3/17/2024	Store_4	Prod_6	Health	23	6.16	149	141.68	126	0
+3/18/2024	Store_1	Prod_4	Beverages	14	22.05	158	308.7	144	0
+3/19/2024	Store_2	Prod_5	Health	22	9.78	169	215.16	147	0
+3/20/2024	Store_3	Prod_6	Snacks	20	18.48	128	369.6	108	0
+3/21/2024	Store_4	Prod_14	Household	20	9	183	180	163	0
+3/22/2024	Store_4	Prod_6	Beverages	12	22.79	68	273.48	56	0
+3/23/2024	Store_1	Prod_19	Beverages	24	4.48	176	107.52	152	0
+3/24/2024	Store_1	Prod_14	Pet Supplies	21	5.7	78	119.7	57	0
+3/25/2024	Store_3	Prod_2	Pet Supplies	9	13.09	73	117.81	64	0
+3/26/2024	Store_3	Prod_14	Beverages	19	3.43	59	65.17	40	0
+3/27/2024	Store_5	Prod_15	Beverages	25	6.11	154	152.75	129	0
+3/28/2024	Store_5	Prod_18	Health	31	23.68	194	734.08	163	0
+3/29/2024	Store_5	Prod_13	Snacks	21	24.45	104	513.45	83	2
+3/30/2024	Store_1	Prod_20	Snacks	19	10.34	196	196.46	177	0
+3/31/2024	Store_3	Prod_2	Beverages	12	23.2	51	278.4	39	0
+4/1/2024	Store_5	Prod_8	Pet Supplies	24	14.3	196	343.2	172	2
+4/2/2024	Store_1	Prod_6	Beverages	20	7.84	184	156.8	164	0
+4/3/2024	Store_1	Prod_5	Pet Supplies	16	18.01	160	288.16	144	0
+4/4/2024	Store_2	Prod_8	Beverages	22	16.98	87	373.56	65	0
+4/5/2024	Store_2	Prod_10	Beverages	21	24.74	180	519.54	159	0
+4/6/2024	Store_2	Prod_10	Pet Supplies	20	7.73	151	154.6	131	2
+4/7/2024	Store_1	Prod_18	Health	28	17.29	144	484.12	116	0
+4/8/2024	Store_3	Prod_9	Health	22	2.72	141	59.84	119	0
+4/9/2024	Store_2	Prod_13	Pet Supplies	17	4.17	120	70.89	103	0
+4/10/2024	Store_5	Prod_15	Health	23	1.59	73	36.57	50	0
+4/11/2024	Store_2	Prod_2	Household	19	24.99	117	474.81	98	0
+4/12/2024	Store_1	Prod_7	Snacks	20	20.35	177	407	157	0
+4/13/2024	Store_1	Prod_7	Health	14	19.99	142	279.86	128	0
+4/14/2024	Store_5	Prod_12	Health	19	13.48	93	256.12	74	0
+4/15/2024	Store_3	Prod_4	Pet Supplies	24	8.55	182	205.2	158	0
+4/16/2024	Store_4	Prod_10	Household	18	5.05	104	90.9	86	0
+4/17/2024	Store_1	Prod_8	Household	21	8.19	78	171.99	57	0
+4/18/2024	Store_3	Prod_4	Beverages	24	10.34	86	248.16	62	0
+4/19/2024	Store_1	Prod_15	Health	21	19.27	164	404.67	143	2
+4/20/2024	Store_3	Prod_1	Beverages	22	14.18	52	311.96	30	0
+4/21/2024	Store_4	Prod_13	Household	13	3.32	171	43.16	158	0
+4/22/2024	Store_2	Prod_6	Pet Supplies	16	1.92	92	30.72	76	0
+4/23/2024	Store_4	Prod_11	Health	8	3.9	56	31.2	48	0
+4/24/2024	Store_5	Prod_19	Beverages	26	11.15	174	289.9	148	0
+4/25/2024	Store_4	Prod_11	Health	30	23.43	98	702.9	68	0
+4/26/2024	Store_4	Prod_7	Snacks	19	16.48	170	313.12	151	0
+4/27/2024	Store_2	Prod_18	Health	20	20.34	122	406.8	102	0
+4/28/2024	Store_1	Prod_10	Household	17	12.46	90	211.82	73	0
+4/29/2024	Store_1	Prod_10	Health	27	10	155	270	128	0
+4/30/2024	Store_5	Prod_15	Beverages	24	4.05	126	97.2	102	0
+5/1/2024	Store_4	Prod_18	Snacks	20	22.08	176	441.6	156	0
+5/2/2024	Store_4	Prod_17	Health	21	19.9	140	417.9	119	0
+5/3/2024	Store_1	Prod_8	Pet Supplies	18	5.45	57	98.1	39	0
+5/4/2024	Store_5	Prod_8	Snacks	16	13.54	81	216.64	65	0
+5/5/2024	Store_1	Prod_19	Beverages	20	12.95	113	259	93	0
+5/6/2024	Store_2	Prod_16	Pet Supplies	18	16.19	187	291.42	169	0
+5/7/2024	Store_1	Prod_6	Snacks	24	23.74	62	569.76	38	0
+5/8/2024	Store_2	Prod_18	Pet Supplies	15	15.12	142	226.8	127	2
+5/9/2024	Store_4	Prod_18	Pet Supplies	20	14.2	110	284	90	2
+5/10/2024	Store_5	Prod_13	Pet Supplies	19	2.68	57	50.92	38	0
+5/11/2024	Store_1	Prod_1	Snacks	14	2.98	78	41.72	64	0
+5/12/2024	Store_4	Prod_10	Pet Supplies	20	5.9	144	118	124	0
+5/13/2024	Store_4	Prod_10	Snacks	34	2.26	90	76.84	56	0
+5/14/2024	Store_1	Prod_7	Pet Supplies	17	18.97	198	322.49	181	0
+5/15/2024	Store_5	Prod_5	Pet Supplies	16	18.5	60	296	44	0
+5/16/2024	Store_3	Prod_10	Snacks	16	4.7	51	75.2	35	0
+5/17/2024	Store_3	Prod_7	Household	23	21.15	180	486.45	157	0
+5/18/2024	Store_4	Prod_6	Pet Supplies	19	5.14	129	97.66	110	0
+5/19/2024	Store_5	Prod_12	Household	18	8.58	136	154.44	118	0
+5/20/2024	Store_2	Prod_8	Health	25	7.35	155	183.75	130	0
+5/21/2024	Store_2	Prod_16	Snacks	18	10.25	188	184.5	170	0
+5/22/2024	Store_1	Prod_18	Pet Supplies	24	7.48	66	179.52	42	0
+5/23/2024	Store_2	Prod_5	Snacks	21	12.99	72	272.79	51	0
+5/24/2024	Store_4	Prod_9	Beverages	12	11.07	97	132.84	85	0
+5/25/2024	Store_4	Prod_11	Health	23	24.68	69	567.64	46	0
+5/26/2024	Store_2	Prod_13	Beverages	24	2.81	51	67.44	27	0
+5/27/2024	Store_1	Prod_14	Household	30	4.84	137	145.2	107	2
+5/28/2024	Store_2	Prod_2	Beverages	17	2.74	80	46.58	63	0
+5/29/2024	Store_4	Prod_2	Pet Supplies	17	16.21	179	275.57	162	0
+5/30/2024	Store_1	Prod_11	Household	24	2.78	127	66.72	103	0
+5/31/2024	Store_1	Prod_7	Health	20	21.16	53	423.2	33	0
+6/1/2024	Store_1	Prod_3	Pet Supplies	18	13.53	190	243.54	172	0
+6/2/2024	Store_4	Prod_10	Household	25	13.88	177	347	152	0
+6/3/2024	Store_3	Prod_10	Pet Supplies	23	14.7	183	338.1	160	0
+6/4/2024	Store_5	Prod_7	Household	28	5.51	80	154.28	52	0
+6/5/2024	Store_1	Prod_5	Health	17	6.15	187	104.55	170	0
+6/6/2024	Store_4	Prod_13	Snacks	15	8.99	70	134.85	55	0
+6/7/2024	Store_5	Prod_19	Health	23	15.45	72	355.35	49	0
+6/8/2024	Store_2	Prod_20	Pet Supplies	30	6.44	180	193.2	150	0
+6/9/2024	Store_3	Prod_3	Beverages	18	4.23	197	76.14	179	0
+6/10/2024	Store_3	Prod_15	Health	24	24.3	78	583.2	54	0
+6/11/2024	Store_4	Prod_9	Beverages	18	2.02	154	36.36	136	0
+6/12/2024	Store_4	Prod_5	Health	25	20.36	101	509	76	0
+6/13/2024	Store_2	Prod_10	Snacks	19	20.02	164	380.38	145	0
+6/14/2024	Store_3	Prod_12	Pet Supplies	15	8.48	150	127.2	135	0
+6/15/2024	Store_2	Prod_10	Pet Supplies	21	4.69	133	98.49	112	0
+6/16/2024	Store_3	Prod_12	Snacks	15	4.92	110	73.8	95	0
+6/17/2024	Store_2	Prod_20	Health	17	17.89	174	304.13	157	0
+6/18/2024	Store_3	Prod_18	Snacks	22	16.61	120	365.42	98	0
+6/19/2024	Store_1	Prod_2	Household	16	19.89	119	318.24	103	0
+6/20/2024	Store_4	Prod_3	Beverages	21	23.53	188	494.13	167	0
+6/21/2024	Store_4	Prod_13	Pet Supplies	27	17.76	157	479.52	130	0
+6/22/2024	Store_2	Prod_2	Household	22	5.16	70	113.52	48	0
+6/23/2024	Store_4	Prod_6	Beverages	21	7.22	180	151.62	159	0
+6/24/2024	Store_3	Prod_2	Pet Supplies	17	21.29	131	361.93	114	0
+6/25/2024	Store_4	Prod_17	Beverages	22	6.42	137	141.24	115	0
+6/26/2024	Store_3	Prod_2	Beverages	23	3.2	160	73.6	137	0
+6/27/2024	Store_1	Prod_18	Beverages	12	18.03	59	216.36	47	0
+6/28/2024	Store_2	Prod_17	Snacks	17	10.96	61	186.32	44	0
+6/29/2024	Store_5	Prod_8	Beverages	22	23.12	56	508.64	34	0
+6/30/2024	Store_5	Prod_11	Pet Supplies	11	16.78	194	184.58	183	0
+7/1/2024	Store_1	Prod_13	Health	29	3.62	163	104.98	134	0
+7/2/2024	Store_1	Prod_16	Beverages	22	23.77	75	522.94	53	0
+7/3/2024	Store_5	Prod_10	Pet Supplies	16	7.58	64	121.28	48	0
+7/4/2024	Store_2	Prod_20	Snacks	23	9.42	82	216.66	59	0
+7/5/2024	Store_2	Prod_9	Pet Supplies	17	10.95	111	186.15	94	0
+7/6/2024	Store_1	Prod_11	Pet Supplies	11	2.7	96	29.7	85	0
+7/7/2024	Store_3	Prod_13	Beverages	14	13.17	144	184.38	130	0
+7/8/2024	Store_1	Prod_9	Snacks	23	4.4	84	101.2	61	0
+7/9/2024	Store_2	Prod_6	Household	19	10.92	125	207.48	106	2
+7/10/2024	Store_2	Prod_12	Beverages	19	9.74	172	185.06	153	0
+7/11/2024	Store_4	Prod_15	Snacks	16	19.66	132	314.56	116	0
+7/12/2024	Store_1	Prod_16	Health	17	20.37	74	346.29	57	0
+7/13/2024	Store_4	Prod_9	Health	21	5.11	106	107.31	85	0
+7/14/2024	Store_2	Prod_19	Beverages	17	10.11	81	171.87	64	0
+7/15/2024	Store_2	Prod_14	Household	21	10.27	112	215.67	91	0
+7/16/2024	Store_1	Prod_18	Pet Supplies	22	5.06	61	111.32	39	0
+7/17/2024	Store_5	Prod_20	Health	16	20.26	112	324.16	96	0
+7/18/2024	Store_4	Prod_2	Snacks	23	18.12	126	416.76	103	0
+7/19/2024	Store_3	Prod_16	Pet Supplies	17	5.97	141	101.49	124	0
+7/20/2024	Store_4	Prod_2	Pet Supplies	21	10.12	50	212.52	29	2
+7/21/2024	Store_3	Prod_19	Pet Supplies	30	3.99	119	119.7	89	0
+7/22/2024	Store_4	Prod_19	Health	16	16.26	185	260.16	169	0
+7/23/2024	Store_4	Prod_10	Household	23	4.35	182	100.05	159	0
+7/24/2024	Store_1	Prod_16	Snacks	19	24.67	135	468.73	116	0
+7/25/2024	Store_2	Prod_7	Health	21	19.85	88	416.85	67	0
+7/26/2024	Store_1	Prod_10	Health	19	10.67	72	202.73	53	0
+7/27/2024	Store_5	Prod_10	Health	15	15.1	117	226.5	102	0
+7/28/2024	Store_2	Prod_3	Snacks	36	22.92	53	825.12	17	0
+7/29/2024	Store_5	Prod_6	Snacks	13	14.52	175	188.76	162	0
+7/30/2024	Store_2	Prod_17	Health	27	5.6	70	151.2	43	0
+7/31/2024	Store_5	Prod_12	Health	17	10.4	154	176.8	137	0
+8/1/2024	Store_5	Prod_10	Beverages	23	21.31	115	490.13	92	0
+8/2/2024	Store_2	Prod_3	Snacks	21	16.64	56	349.44	35	0
+8/3/2024	Store_5	Prod_5	Beverages	22	16.79	98	369.38	76	0
+8/4/2024	Store_2	Prod_16	Pet Supplies	23	21.87	65	503.01	42	0
+8/5/2024	Store_1	Prod_13	Household	16	22.51	194	360.16	178	0
+8/6/2024	Store_5	Prod_5	Beverages	23	23.12	133	531.76	110	0
+8/7/2024	Store_3	Prod_10	Beverages	16	3.73	136	59.68	120	0
+8/8/2024	Store_1	Prod_1	Household	17	14.29	147	242.93	130	0
+8/9/2024	Store_3	Prod_15	Health	11	18.9	124	207.9	113	0
+8/10/2024	Store_5	Prod_5	Snacks	23	19.29	83	443.67	60	0
+8/11/2024	Store_3	Prod_14	Beverages	22	15.76	75	346.72	53	0
+8/12/2024	Store_1	Prod_2	Pet Supplies	24	5.42	115	130.08	91	0
+8/13/2024	Store_3	Prod_20	Pet Supplies	28	20.24	174	566.72	146	0
+8/14/2024	Store_4	Prod_20	Household	16	18.42	112	294.72	96	0
+8/15/2024	Store_4	Prod_17	Household	23	3.52	136	80.96	113	0
+8/16/2024	Store_5	Prod_2	Beverages	20	12.4	90	248	70	0
+8/17/2024	Store_3	Prod_14	Household	18	5.59	147	100.62	129	0
+8/18/2024	Store_1	Prod_18	Household	21	9.43	173	198.03	152	0
+8/19/2024	Store_4	Prod_5	Snacks	17	1.92	128	32.64	111	0
+8/20/2024	Store_2	Prod_5	Snacks	27	10.91	59	294.57	32	0
+8/21/2024	Store_3	Prod_16	Beverages	24	14.42	64	346.08	40	0
+8/22/2024	Store_1	Prod_17	Beverages	22	16.06	91	353.32	69	0
+8/23/2024	Store_2	Prod_3	Health	23	17.09	142	393.07	119	0
+8/24/2024	Store_4	Prod_13	Health	19	21.15	66	401.85	47	0
+8/25/2024	Store_4	Prod_3	Household	29	6.56	58	190.24	29	0
+8/26/2024	Store_2	Prod_2	Beverages	25	4.33	163	108.25	138	0
+8/27/2024	Store_1	Prod_16	Beverages	19	21.51	85	408.69	66	0
+8/28/2024	Store_4	Prod_20	Snacks	17	5.18	85	88.06	68	0
+8/29/2024	Store_5	Prod_11	Health	11	24.41	97	268.51	86	0
+8/30/2024	Store_3	Prod_18	Health	28	21.3	100	596.4	72	0
+8/31/2024	Store_1	Prod_14	Household	24	13.27	146	318.48	122	2
+9/1/2024	Store_5	Prod_7	Pet Supplies	22	24.56	168	540.32	146	0
+9/2/2024	Store_3	Prod_18	Pet Supplies	15	3.79	144	56.85	129	0
+9/3/2024	Store_4	Prod_15	Snacks	12	8.62	119	103.44	107	0
+9/4/2024	Store_3	Prod_11	Household	22	16.5	123	363	101	0
+9/5/2024	Store_3	Prod_19	Beverages	25	9.73	129	243.25	104	0
+9/6/2024	Store_4	Prod_17	Health	13	23.32	117	303.16	104	0
+9/7/2024	Store_4	Prod_11	Pet Supplies	17	3.04	199	51.68	182	0
+9/8/2024	Store_5	Prod_15	Beverages	20	14.41	126	288.2	106	0
+9/9/2024	Store_2	Prod_2	Household	18	15.39	165	277.02	147	0
+9/10/2024	Store_1	Prod_18	Household	30	16.84	55	505.2	25	0
+9/11/2024	Store_1	Prod_16	Beverages	18	7.51	124	135.18	106	0
+9/12/2024	Store_1	Prod_9	Pet Supplies	13	10.07	137	130.91	124	0
+9/13/2024	Store_4	Prod_15	Pet Supplies	21	21.33	52	447.93	31	0
+9/14/2024	Store_5	Prod_13	Pet Supplies	22	6.08	101	133.76	79	0
+9/15/2024	Store_4	Prod_7	Household	19	20.93	123	397.67	104	0
+9/16/2024	Store_5	Prod_17	Household	15	14.72	174	220.8	159	0
+9/17/2024	Store_4	Prod_3	Beverages	15	19.41	114	291.15	99	0
+9/18/2024	Store_4	Prod_16	Health	16	18.27	101	292.32	85	0
+9/19/2024	Store_2	Prod_6	Snacks	15	6.38	125	95.7	110	0
+9/20/2024	Store_1	Prod_2	Beverages	23	14.87	191	342.01	168	0
+9/21/2024	Store_3	Prod_12	Pet Supplies	20	21.89	138	437.8	118	0
+9/22/2024	Store_3	Prod_18	Beverages	12	11.65	121	139.8	109	0
+9/23/2024	Store_3	Prod_5	Pet Supplies	16	24.21	117	387.36	101	0
+9/24/2024	Store_4	Prod_19	Beverages	13	12.13	187	157.69	174	0
+9/25/2024	Store_5	Prod_13	Beverages	20	4.86	164	97.2	144	0
+9/26/2024	Store_2	Prod_5	Household	16	10.65	106	170.4	90	0
+9/27/2024	Store_4	Prod_18	Health	18	23.87	115	429.66	97	0
+9/28/2024	Store_1	Prod_12	Beverages	22	9.01	139	198.22	117	0
+9/29/2024	Store_3	Prod_9	Household	19	21.9	99	416.1	80	0
+9/30/2024	Store_1	Prod_12	Pet Supplies	20	22.21	63	444.2	43	0
+10/1/2024	Store_4	Prod_6	Pet Supplies	23	9.73	65	223.79	42	0
+10/2/2024	Store_2	Prod_9	Household	20	3.46	91	69.2	71	0
+10/3/2024	Store_5	Prod_15	Household	26	18.53	159	481.78	133	0
+10/4/2024	Store_4	Prod_13	Household	20	8.82	71	176.4	51	0
+10/5/2024	Store_1	Prod_2	Household	21	19.9	117	417.9	96	0
+10/6/2024	Store_2	Prod_12	Beverages	18	11.9	68	214.2	50	0
+10/7/2024	Store_5	Prod_3	Health	23	12.9	115	296.7	92	0
+10/8/2024	Store_4	Prod_17	Pet Supplies	18	19.78	122	356.04	104	0
+10/9/2024	Store_5	Prod_9	Beverages	16	10.49	196	167.84	180	0
+10/10/2024	Store_3	Prod_11	Beverages	19	11.91	193	226.29	174	0
+10/11/2024	Store_3	Prod_17	Household	24	10.34	103	248.16	79	0
+10/12/2024	Store_5	Prod_9	Health	20	10.13	161	202.6	141	0
+10/13/2024	Store_2	Prod_17	Household	22	13.86	67	304.92	45	0
+10/14/2024	Store_5	Prod_5	Pet Supplies	16	20.51	166	328.16	150	0
+10/15/2024	Store_4	Prod_8	Beverages	23	10	134	230	111	0
+10/16/2024	Store_3	Prod_20	Household	25	13.82	188	345.5	163	0
+10/17/2024	Store_3	Prod_4	Household	18	17.26	88	310.68	70	0
+10/18/2024	Store_2	Prod_15	Household	19	7.83	154	148.77	135	0
+10/19/2024	Store_5	Prod_16	Pet Supplies	19	8.02	117	152.38	98	0
+10/20/2024	Store_2	Prod_3	Pet Supplies	18	23.44	74	421.92	56	2
+10/21/2024	Store_2	Prod_19	Snacks	27	18.5	172	499.5	145	0
+10/22/2024	Store_5	Prod_12	Pet Supplies	18	15.06	170	271.08	152	0
+10/23/2024	Store_1	Prod_5	Health	33	16.72	110	551.76	77	0
+10/24/2024	Store_3	Prod_7	Pet Supplies	22	2.19	149	48.18	127	0
+10/25/2024	Store_1	Prod_10	Pet Supplies	18	16.03	100	288.54	82	0
+10/26/2024	Store_1	Prod_5	Health	21	13.47	147	282.87	126	0
+10/27/2024	Store_5	Prod_7	Beverages	16	14.33	186	229.28	170	0
+10/28/2024	Store_5	Prod_4	Household	18	9.95	51	179.1	33	0
+10/29/2024	Store_5	Prod_12	Beverages	18	3.41	54	61.38	36	0
+10/30/2024	Store_1	Prod_1	Pet Supplies	23	6.04	135	138.92	112	2
+10/31/2024	Store_4	Prod_12	Pet Supplies	23	23.84	182	548.32	159	2
+11/1/2024	Store_2	Prod_10	Snacks	16	11.1	117	177.6	101	0
+11/2/2024	Store_5	Prod_10	Beverages	20	12.47	58	249.4	38	0
+11/3/2024	Store_4	Prod_20	Beverages	24	2.74	142	65.76	118	0
+11/4/2024	Store_2	Prod_14	Snacks	21	2.38	199	49.98	178	0
+11/5/2024	Store_2	Prod_12	Household	24	18.35	187	440.4	163	0
+11/6/2024	Store_3	Prod_7	Beverages	24	14.15	174	339.6	150	0
+11/7/2024	Store_2	Prod_6	Snacks	24	13.45	110	322.8	86	0
+11/8/2024	Store_4	Prod_19	Household	14	7.21	100	100.94	86	0
+11/9/2024	Store_3	Prod_1	Pet Supplies	22	19	59	418	37	0
+11/10/2024	Store_1	Prod_20	Household	15	5.45	183	81.75	168	0
+11/11/2024	Store_4	Prod_8	Household	26	5.96	111	154.96	85	0
+11/12/2024	Store_3	Prod_2	Snacks	27	12.33	162	332.91	135	0
+11/13/2024	Store_4	Prod_10	Snacks	21	8.23	182	172.83	161	0
+11/14/2024	Store_3	Prod_8	Pet Supplies	26	7.32	171	190.32	145	0
+11/15/2024	Store_2	Prod_7	Snacks	22	16.66	172	366.52	150	0
+11/16/2024	Store_2	Prod_10	Pet Supplies	20	16.8	112	336	92	0
+11/17/2024	Store_4	Prod_16	Beverages	17	20.88	160	354.96	143	2
+11/18/2024	Store_4	Prod_19	Health	17	11.32	138	192.44	121	0
+11/19/2024	Store_2	Prod_1	Beverages	16	3.22	100	51.52	84	0
+11/20/2024	Store_5	Prod_12	Pet Supplies	27	7.93	181	214.11	154	0
+11/21/2024	Store_1	Prod_9	Household	15	24.53	153	367.95	138	0
+11/22/2024	Store_1	Prod_9	Pet Supplies	23	15.51	172	356.73	149	0
+11/23/2024	Store_3	Prod_7	Snacks	25	18.18	97	454.5	72	2
+11/24/2024	Store_3	Prod_15	Pet Supplies	24	1.67	81	40.08	57	0
+11/25/2024	Store_2	Prod_9	Health	23	13.68	169	314.64	146	0
+11/26/2024	Store_5	Prod_16	Snacks	29	2.38	148	69.02	119	0
+11/27/2024	Store_2	Prod_7	Beverages	18	14.88	123	267.84	105	0
+11/28/2024	Store_3	Prod_12	Household	15	23.14	83	347.1	68	0
+11/29/2024	Store_2	Prod_2	Snacks	16	24.26	119	388.16	103	0
+11/30/2024	Store_2	Prod_10	Beverages	17	14.2	159	241.4	142	0
+12/1/2024	Store_3	Prod_14	Beverages	24	12.27	65	294.48	41	0
+12/2/2024	Store_1	Prod_11	Household	13	23.71	108	308.23	95	0
+12/3/2024	Store_4	Prod_5	Pet Supplies	18	17.33	68	311.94	50	0
+12/4/2024	Store_1	Prod_11	Health	16	3.03	144	48.48	128	0
+12/5/2024	Store_1	Prod_17	Pet Supplies	26	12.44	162	323.44	136	0
+12/6/2024	Store_2	Prod_17	Health	16	7.15	90	114.4	74	0
+12/7/2024	Store_2	Prod_11	Health	11	12.54	130	137.94	119	0
+12/8/2024	Store_2	Prod_11	Snacks	23	12.2	152	280.6	129	0
+12/9/2024	Store_4	Prod_20	Beverages	16	15.18	103	242.88	87	0
+12/10/2024	Store_5	Prod_13	Beverages	19	9.88	144	187.72	125	0
+12/11/2024	Store_4	Prod_10	Beverages	24	5.36	196	128.64	172	0
+12/12/2024	Store_3	Prod_11	Household	17	13.34	111	226.78	94	0
+12/13/2024	Store_3	Prod_15	Pet Supplies	16	21.01	148	336.16	132	0
+12/14/2024	Store_3	Prod_2	Household	24	17.1	142	410.4	118	0
+12/15/2024	Store_5	Prod_2	Health	24	9.45	114	226.8	90	0
+12/16/2024	Store_5	Prod_14	Pet Supplies	25	23.48	117	587	92	0
+12/17/2024	Store_2	Prod_5	Health	21	22.94	77	481.74	56	0
+12/18/2024	Store_3	Prod_9	Snacks	26	6.42	67	166.92	41	0
+12/19/2024	Store_5	Prod_20	Health	24	2.43	75	58.32	51	0
+12/20/2024	Store_4	Prod_4	Snacks	23	18.92	153	435.16	130	0
+12/21/2024	Store_3	Prod_2	Pet Supplies	16	20.95	196	335.2	180	0
+12/22/2024	Store_2	Prod_5	Snacks	18	24.24	104	436.32	86	0
+12/23/2024	Store_3	Prod_20	Health	24	22.41	168	537.84	144	0
+12/24/2024	Store_2	Prod_10	Snacks	21	15.61	173	327.81	152	0
+12/25/2024	Store_1	Prod_10	Pet Supplies	19	13.96	183	265.24	164	0
+12/26/2024	Store_2	Prod_6	Snacks	22	2.15	178	47.3	156	2
+12/27/2024	Store_4	Prod_8	Beverages	29	7.3	57	211.7	28	0
+12/28/2024	Store_5	Prod_1	Snacks	20	12.3	100	246	80	0
+12/29/2024	Store_3	Prod_3	Pet Supplies	23	16.27	134	374.21	111	0
+12/30/2024	Store_2	Prod_8	Beverages	17	14.6	74	248.2	57	0
+12/31/2024	Store_1	Prod_14	Pet Supplies	22	18.95	132	416.9	110	2
+1/1/2025	Store_4	Prod_14	Snacks	15	8.07	142	121.05	127	0
+1/2/2025	Store_4	Prod_17	Snacks	19	14.78	166	280.82	147	0
+1/3/2025	Store_2	Prod_8	Snacks	25	3.57	187	89.25	162	0
+1/4/2025	Store_4	Prod_6	Household	21	11.22	105	235.62	84	0
+1/5/2025	Store_4	Prod_13	Snacks	31	19.13	61	593.03	30	0
+1/6/2025	Store_3	Prod_20	Beverages	20	17.79	169	355.8	149	0
+1/7/2025	Store_3	Prod_9	Household	15	24.78	120	371.7	105	0
+1/8/2025	Store_4	Prod_19	Pet Supplies	17	8.03	66	136.51	49	0
+1/9/2025	Store_2	Prod_20	Health	21	13.21	171	277.41	150	0
+1/10/2025	Store_5	Prod_3	Household	18	9.24	173	166.32	155	0
+1/11/2025	Store_1	Prod_10	Health	12	11.85	59	142.2	47	0
+1/12/2025	Store_3	Prod_5	Snacks	22	21.64	80	476.08	58	0
+1/13/2025	Store_3	Prod_8	Snacks	15	17.58	109	263.7	94	0
+1/14/2025	Store_3	Prod_2	Beverages	17	22.24	119	378.08	102	0
+1/15/2025	Store_4	Prod_18	Snacks	27	6.28	66	169.56	39	0
+1/16/2025	Store_3	Prod_6	Snacks	25	22.02	99	550.5	74	0
+1/17/2025	Store_3	Prod_14	Beverages	18	2.9	86	52.2	68	0
+1/18/2025	Store_4	Prod_15	Health	12	22.38	167	268.56	155	0
+1/19/2025	Store_4	Prod_5	Snacks	12	9.23	129	110.76	117	0
+1/20/2025	Store_1	Prod_4	Health	16	8.89	60	142.24	44	0
+1/21/2025	Store_1	Prod_1	Household	17	13.53	183	230.01	166	0
+1/22/2025	Store_4	Prod_4	Beverages	15	23.61	172	354.15	157	0
+1/23/2025	Store_1	Prod_12	Health	17	2.62	84	44.54	67	0
+1/24/2025	Store_2	Prod_16	Household	18	9.78	82	176.04	64	0
+1/25/2025	Store_2	Prod_11	Household	16	21.63	67	346.08	51	0
+1/26/2025	Store_1	Prod_1	Pet Supplies	16	10.81	62	172.96	46	0
+1/27/2025	Store_4	Prod_16	Health	22	6.18	139	135.96	117	2
+1/28/2025	Store_3	Prod_13	Household	16	11.48	159	183.68	143	0
+1/29/2025	Store_2	Prod_14	Health	14	10.56	50	147.84	36	0
+1/30/2025	Store_3	Prod_16	Snacks	26	23.01	112	598.26	86	0
+1/31/2025	Store_5	Prod_8	Beverages	12	19.41	83	232.92	71	0
+2/1/2025	Store_3	Prod_18	Pet Supplies	17	13.37	152	227.29	135	0
+2/2/2025	Store_2	Prod_15	Household	24	24.73	59	593.52	35	0
+2/3/2025	Store_3	Prod_6	Health	21	12.43	177	261.03	156	2
+2/4/2025	Store_3	Prod_12	Beverages	14	2.87	56	40.18	42	0
+2/5/2025	Store_3	Prod_18	Pet Supplies	17	7.66	105	130.22	88	0
+2/6/2025	Store_3	Prod_5	Household	12	11.75	129	141	117	0
+2/7/2025	Store_1	Prod_16	Household	17	5.19	61	88.23	44	2
+2/8/2025	Store_5	Prod_19	Pet Supplies	11	23.77	194	261.47	183	0
+2/9/2025	Store_3	Prod_4	Beverages	19	19.52	97	370.88	78	0
+2/10/2025	Store_2	Prod_3	Pet Supplies	21	7.8	75	163.8	54	0
+2/11/2025	Store_1	Prod_7	Household	17	15.38	161	261.46	144	2
+2/12/2025	Store_3	Prod_14	Household	26	18.45	171	479.7	145	0
+2/13/2025	Store_1	Prod_14	Beverages	15	23.62	61	354.3	46	0
+2/14/2025	Store_4	Prod_20	Snacks	23	22.22	198	511.06	175	0
+2/15/2025	Store_4	Prod_4	Household	20	13.61	91	272.2	71	0
+2/16/2025	Store_3	Prod_16	Health	18	19.7	110	354.6	92	0
+2/17/2025	Store_4	Prod_7	Household	19	14.71	107	279.49	88	0
+2/18/2025	Store_3	Prod_19	Beverages	19	14.49	83	275.31	64	0
+2/19/2025	Store_4	Prod_5	Health	14	4.2	56	58.8	42	0
+2/20/2025	Store_2	Prod_7	Snacks	30	4.46	158	133.8	128	0
+2/21/2025	Store_3	Prod_6	Household	21	13.94	84	292.74	63	0
+2/22/2025	Store_1	Prod_8	Pet Supplies	20	7.82	64	156.4	44	0
+2/23/2025	Store_4	Prod_11	Beverages	16	1.99	74	31.84	58	0
+2/24/2025	Store_2	Prod_5	Health	18	18.49	108	332.82	90	0
+2/25/2025	Store_5	Prod_2	Household	14	2.26	128	31.64	114	0
+2/26/2025	Store_4	Prod_4	Household	15	15.49	135	232.35	120	0
+2/27/2025	Store_1	Prod_4	Beverages	16	14.17	183	226.72	167	0
+2/28/2025	Store_2	Prod_2	Health	25	24.27	137	606.75	112	0
+3/1/2025	Store_5	Prod_5	Pet Supplies	21	12.88	198	270.48	177	0
+3/2/2025	Store_2	Prod_15	Beverages	18	2.99	120	53.82	102	0
+3/3/2025	Store_2	Prod_15	Beverages	18	14.46	170	260.28	152	0
+3/4/2025	Store_5	Prod_4	Pet Supplies	21	21.27	142	446.67	121	0
+3/5/2025	Store_2	Prod_17	Health	24	24.93	145	598.32	121	0
+3/6/2025	Store_5	Prod_10	Pet Supplies	22	11.61	81	255.42	59	0
+3/7/2025	Store_4	Prod_3	Household	16	9.03	102	144.48	86	0
+3/8/2025	Store_3	Prod_19	Household	16	22.81	108	364.96	92	0
+3/9/2025	Store_4	Prod_8	Pet Supplies	24	5.99	118	143.76	94	0
+3/10/2025	Store_2	Prod_11	Snacks	23	15.96	181	367.08	158	0
+3/11/2025	Store_1	Prod_8	Household	19	11.03	135	209.57	116	0
+3/12/2025	Store_5	Prod_18	Health	13	2.47	67	32.11	54	0
+3/13/2025	Store_1	Prod_1	Health	28	9.66	130	270.48	102	0
+3/14/2025	Store_3	Prod_20	Health	17	7.73	163	131.41	146	0
+3/15/2025	Store_2	Prod_18	Beverages	20	17.62	73	352.4	53	0
+3/16/2025	Store_2	Prod_12	Health	24	23.8	115	571.2	91	0
+3/17/2025	Store_5	Prod_8	Snacks	20	7.8	190	156	170	0
+3/18/2025	Store_3	Prod_7	Health	24	20.57	111	493.68	87	0
+3/19/2025	Store_2	Prod_17	Household	25	2.8	103	70	78	0
+3/20/2025	Store_2	Prod_20	Health	18	14.15	192	254.7	174	2
+3/21/2025	Store_1	Prod_9	Household	21	3.16	180	66.36	159	0
+3/22/2025	Store_2	Prod_17	Household	20	23.45	86	469	66	0
+3/23/2025	Store_1	Prod_12	Snacks	10	19.51	86	195.1	76	0
+3/24/2025	Store_1	Prod_7	Pet Supplies	21	16.96	180	356.16	159	0
+3/25/2025	Store_5	Prod_4	Beverages	25	20.86	84	521.5	59	0
+3/26/2025	Store_5	Prod_14	Snacks	16	16.72	173	267.52	157	2
+3/27/2025	Store_1	Prod_17	Beverages	23	24.27	67	558.21	44	0
+3/28/2025	Store_4	Prod_14	Snacks	21	18.28	171	383.88	150	0
+3/29/2025	Store_3	Prod_2	Snacks	15	23.23	97	348.45	82	0
+3/30/2025	Store_2	Prod_7	Household	24	13.65	66	327.6	42	0
+3/31/2025	Store_4	Prod_20	Health	23	4.25	184	97.75	161	0
+4/1/2025	Store_3	Prod_13	Household	24	13.91	106	333.84	82	0
+4/2/2025	Store_5	Prod_12	Snacks	22	4.48	57	98.56	35	0
+4/3/2025	Store_5	Prod_17	Household	28	15.42	177	431.76	149	0
+4/4/2025	Store_1	Prod_4	Household	11	12.84	166	141.24	155	0
+4/5/2025	Store_2	Prod_13	Beverages	25	16.13	105	403.25	80	0
+4/6/2025	Store_1	Prod_2	Pet Supplies	24	1.74	175	41.76	151	0
+4/7/2025	Store_2	Prod_20	Health	18	6.08	108	109.44	90	0
+4/8/2025	Store_1	Prod_5	Pet Supplies	31	13.05	107	404.55	76	0
+4/9/2025	Store_5	Prod_19	Household	28	23.84	189	667.52	161	0
+4/10/2025	Store_2	Prod_1	Health	21	10.51	157	220.71	136	0
+4/11/2025	Store_3	Prod_14	Household	17	11.47	123	194.99	106	0
+4/12/2025	Store_4	Prod_3	Pet Supplies	23	18.3	197	420.9	174	2
+4/13/2025	Store_2	Prod_18	Household	23	15.69	150	360.87	127	0
+4/14/2025	Store_2	Prod_8	Beverages	18	8.52	97	153.36	79	0
+4/15/2025	Store_2	Prod_4	Beverages	19	11.15	120	211.85	101	2
+4/16/2025	Store_5	Prod_5	Health	18	6.62	165	119.16	147	0
+4/17/2025	Store_5	Prod_5	Health	29	24.2	171	701.8	142	0
+4/18/2025	Store_4	Prod_10	Snacks	18	4.57	127	82.26	109	0
+4/19/2025	Store_3	Prod_9	Snacks	11	10.24	78	112.64	67	0
+4/20/2025	Store_4	Prod_5	Household	15	2.11	142	31.65	127	0
+4/21/2025	Store_3	Prod_13	Pet Supplies	19	6.71	122	127.49	103	0
+4/22/2025	Store_3	Prod_12	Health	16	19.84	149	317.44	133	0
+4/23/2025	Store_2	Prod_2	Snacks	22	6.23	123	137.06	101	0
+4/24/2025	Store_3	Prod_11	Health	24	3.38	144	81.12	120	0
+4/25/2025	Store_5	Prod_5	Health	24	12.65	66	303.6	42	0
+4/26/2025	Store_4	Prod_1	Pet Supplies	22	1.73	186	38.06	164	0
+4/27/2025	Store_3	Prod_3	Household	19	3.49	146	66.31	127	0
+4/28/2025	Store_4	Prod_19	Health	17	20.48	58	348.16	41	0
+4/29/2025	Store_1	Prod_9	Snacks	17	19.63	184	333.71	167	0
+4/30/2025	Store_4	Prod_15	Pet Supplies	15	23.01	193	345.15	178	0
+5/1/2025	Store_5	Prod_2	Household	19	21.58	68	410.02	49	0
+5/2/2025	Store_5	Prod_3	Beverages	14	17.55	183	245.7	169	0
+5/3/2025	Store_5	Prod_16	Beverages	20	2.73	163	54.6	143	0
+5/4/2025	Store_3	Prod_9	Pet Supplies	20	19.9	188	398	168	0
+5/5/2025	Store_5	Prod_15	Household	21	21.37	174	448.77	153	0
+5/6/2025	Store_3	Prod_6	Beverages	15	20.28	110	304.2	95	0
+5/7/2025	Store_4	Prod_19	Beverages	21	13.45	91	282.45	70	0
+5/8/2025	Store_3	Prod_16	Health	18	6.97	62	125.46	44	0
+5/9/2025	Store_4	Prod_2	Pet Supplies	25	21.37	189	534.25	164	0
+5/10/2025	Store_4	Prod_16	Household	19	18.59	134	353.21	115	0
+5/11/2025	Store_5	Prod_8	Health	24	24.55	69	589.2	45	0
+5/12/2025	Store_3	Prod_19	Pet Supplies	21	5.16	99	108.36	78	0
+5/13/2025	Store_1	Prod_4	Pet Supplies	16	6.8	141	108.8	125	0
+5/14/2025	Store_2	Prod_3	Beverages	21	6.48	137	136.08	116	0
+5/15/2025	Store_2	Prod_9	Pet Supplies	20	20.12	118	402.4	98	0
+5/16/2025	Store_4	Prod_3	Health	15	5.89	86	88.35	71	0
+5/17/2025	Store_3	Prod_18	Household	19	3.07	189	58.33	170	0
+5/18/2025	Store_4	Prod_16	Health	10	24.97	148	249.7	138	0
+5/19/2025	Store_3	Prod_10	Pet Supplies	23	2.08	174	47.84	151	0
+5/20/2025	Store_5	Prod_20	Pet Supplies	16	21.13	103	338.08	87	0
+5/21/2025	Store_1	Prod_20	Snacks	16	10.09	179	161.44	163	0
+5/22/2025	Store_1	Prod_16	Pet Supplies	18	21.28	90	383.04	72	0
+5/23/2025	Store_3	Prod_10	Health	25	14.53	94	363.25	69	0
+5/24/2025	Store_1	Prod_1	Pet Supplies	18	22.69	152	408.42	134	0
+5/25/2025	Store_4	Prod_7	Pet Supplies	24	23.27	155	558.48	131	0
+5/26/2025	Store_4	Prod_15	Beverages	16	1.71	186	27.36	170	0
+5/27/2025	Store_1	Prod_9	Snacks	19	3.27	177	62.13	158	0
+5/28/2025	Store_2	Prod_17	Pet Supplies	25	7.38	135	184.5	110	0
+5/29/2025	Store_1	Prod_2	Household	18	17.23	96	310.14	78	0
+5/30/2025	Store_5	Prod_15	Beverages	25	22.37	54	559.25	29	0
+5/31/2025	Store_2	Prod_3	Health	19	12.31	50	233.89	31	0
+6/1/2025	Store_2	Prod_7	Beverages	28	15.76	93	441.28	65	0
+6/2/2025	Store_5	Prod_14	Snacks	28	5.93	199	166.04	171	2
+6/3/2025	Store_5	Prod_8	Beverages	20	20.42	87	408.4	67	0
+6/4/2025	Store_2	Prod_5	Snacks	20	24.23	68	484.6	48	0
+6/5/2025	Store_3	Prod_15	Health	15	7.81	164	117.15	149	0
+6/6/2025	Store_2	Prod_14	Beverages	23	13.13	136	301.99	113	0
+6/7/2025	Store_3	Prod_3	Health	19	3.52	172	66.88	153	0
+6/8/2025	Store_2	Prod_20	Beverages	22	14.64	131	322.08	109	0
+6/9/2025	Store_5	Prod_14	Household	18	13.32	190	239.76	172	0
+6/10/2025	Store_3	Prod_4	Beverages	19	4.89	107	92.91	88	0
+6/11/2025	Store_4	Prod_14	Health	25	11.89	195	297.25	170	0
+6/12/2025	Store_2	Prod_4	Pet Supplies	18	9.35	116	168.3	98	0
+6/13/2025	Store_4	Prod_3	Beverages	13	13.76	171	178.88	158	0
+6/14/2025	Store_4	Prod_18	Pet Supplies	19	15.26	136	289.94	117	0
+6/15/2025	Store_2	Prod_19	Health	22	1.7	180	37.4	158	0
+6/16/2025	Store_4	Prod_12	Snacks	19	19.38	104	368.22	85	0
+6/17/2025	Store_4	Prod_3	Snacks	15	18.26	138	273.9	123	0
+6/18/2025	Store_2	Prod_9	Household	21	10.11	107	212.31	86	0
+6/19/2025	Store_5	Prod_17	Snacks	20	2.74	112	54.8	92	0
+6/20/2025	Store_3	Prod_19	Snacks	31	19.24	140	596.44	109	0
+6/21/2025	Store_2	Prod_13	Household	27	23.95	101	646.65	74	0
+6/22/2025	Store_4	Prod_16	Snacks	22	7.14	175	157.08	153	0
+6/23/2025	Store_3	Prod_18	Pet Supplies	24	9.1	73	218.4	49	0
+6/24/2025	Store_2	Prod_19	Pet Supplies	22	5.82	121	128.04	99	0
+6/25/2025	Store_5	Prod_4	Snacks	23	15.06	58	346.38	35	0
+6/26/2025	Store_1	Prod_12	Beverages	20	5.14	159	102.8	139	0
+6/27/2025	Store_1	Prod_20	Health	19	9.87	143	187.53	124	0
+6/28/2025	Store_3	Prod_4	Beverages	27	17.88	166	482.76	139	0
+6/29/2025	Store_2	Prod_1	Household	25	14.66	132	366.5	107	0
+6/30/2025	Store_4	Prod_9	Household	20	10.58	129	211.6	109	0
+7/1/2025	Store_3	Prod_13	Pet Supplies	21	11.38	198	238.98	177	0
+7/2/2025	Store_5	Prod_1	Health	9	14.71	149	132.39	140	0
+7/3/2025	Store_3	Prod_8	Health	32	1.64	89	52.48	57	0
+7/4/2025	Store_3	Prod_17	Snacks	23	3.34	152	76.82	129	0
+7/5/2025	Store_4	Prod_10	Snacks	22	22.21	111	488.62	89	0
+7/6/2025	Store_4	Prod_11	Household	30	3.33	118	99.9	88	0
+7/7/2025	Store_1	Prod_17	Pet Supplies	24	18.11	191	434.64	167	0
+7/8/2025	Store_4	Prod_15	Household	21	23.12	158	485.52	137	2
+7/9/2025	Store_3	Prod_17	Pet Supplies	23	7.86	53	180.78	30	0
+7/10/2025	Store_3	Prod_19	Snacks	29	10.21	121	296.09	92	2
+7/11/2025	Store_4	Prod_10	Snacks	22	14.87	66	327.14	44	0
+7/12/2025	Store_5	Prod_6	Pet Supplies	17	22.22	163	377.74	146	0
+7/13/2025	Store_5	Prod_17	Pet Supplies	19	23.63	134	448.97	115	0
+7/14/2025	Store_1	Prod_9	Household	15	18.88	106	283.2	91	0
+7/15/2025	Store_5	Prod_5	Household	12	3.54	156	42.48	144	0
+7/16/2025	Store_4	Prod_12	Beverages	13	17.23	97	223.99	84	0
+7/17/2025	Store_4	Prod_8	Beverages	22	11.14	166	245.08	144	0
+7/18/2025	Store_5	Prod_17	Snacks	15	12.56	80	188.4	65	0
+7/19/2025	Store_4	Prod_8	Health	35	2.65	161	92.75	126	0
+7/20/2025	Store_1	Prod_17	Snacks	28	5.99	96	167.72	68	0
+7/21/2025	Store_2	Prod_15	Snacks	10	20.08	183	200.8	173	0
+7/22/2025	Store_5	Prod_2	Pet Supplies	21	12.17	157	255.57	136	0
+7/23/2025	Store_2	Prod_14	Health	17	8.59	121	146.03	104	0
+7/24/2025	Store_1	Prod_1	Snacks	21	10.52	120	220.92	99	0
+7/25/2025	Store_3	Prod_15	Beverages	17	21.58	157	366.86	140	0
+7/26/2025	Store_2	Prod_18	Health	17	19.1	102	324.7	85	0
+7/27/2025	Store_1	Prod_15	Snacks	18	7.9	191	142.2	173	0
+7/28/2025	Store_1	Prod_7	Health	10	4.26	65	42.6	55	0
+7/29/2025	Store_3	Prod_14	Beverages	16	7.42	165	118.72	149	0
+7/30/2025	Store_1	Prod_17	Health	13	23.14	122	300.82	109	0
+7/31/2025	Store_2	Prod_9	Health	18	15.17	123	273.06	105	0
+8/1/2025	Store_5	Prod_20	Health	12	14.04	130	168.48	118	0
+8/2/2025	Store_5	Prod_3	Health	24	15.52	61	372.48	37	0
+8/3/2025	Store_4	Prod_19	Beverages	20	10.1	177	202	157	0
+8/4/2025	Store_2	Prod_17	Beverages	18	20.47	119	368.46	101	0
+8/5/2025	Store_2	Prod_11	Beverages	20	13.8	196	276	176	0
+8/6/2025	Store_3	Prod_10	Health	21	4.24	90	89.04	69	0
+8/7/2025	Store_5	Prod_8	Health	24	4.53	108	108.72	84	0
+8/8/2025	Store_2	Prod_5	Beverages	14	14.12	138	197.68	124	2
+8/9/2025	Store_3	Prod_5	Snacks	18	23.51	73	423.18	55	2
+8/10/2025	Store_3	Prod_12	Household	22	8.75	193	192.5	171	2
+8/11/2025	Store_3	Prod_20	Pet Supplies	23	21.93	129	504.39	106	0
+8/12/2025	Store_1	Prod_1	Household	22	19.46	183	428.12	161	0
+8/13/2025	Store_1	Prod_3	Household	17	7.32	181	124.44	164	0
+8/14/2025	Store_3	Prod_15	Household	19	2.35	141	44.65	122	0
+8/15/2025	Store_5	Prod_2	Beverages	22	3.89	141	85.58	119	0
+8/16/2025	Store_2	Prod_11	Household	22	18.62	130	409.64	108	0
+8/17/2025	Store_3	Prod_15	Beverages	19	6.19	191	117.61	172	0
+8/18/2025	Store_1	Prod_19	Snacks	23	10.22	120	235.06	97	0
+8/19/2025	Store_5	Prod_12	Health	22	13.29	114	292.38	92	0
+8/20/2025	Store_2	Prod_5	Health	22	18.55	101	408.1	79	0
+8/21/2025	Store_3	Prod_7	Household	26	4.16	79	108.16	53	0
+8/22/2025	Store_3	Prod_19	Beverages	20	11.05	148	221	128	0
+8/23/2025	Store_1	Prod_2	Household	19	12.9	147	245.1	128	0
+8/24/2025	Store_2	Prod_11	Pet Supplies	18	14.21	91	255.78	73	0
+8/25/2025	Store_5	Prod_14	Pet Supplies	25	20.73	188	518.25	163	0
+8/26/2025	Store_5	Prod_7	Beverages	28	5.53	76	154.84	48	0
+8/27/2025	Store_3	Prod_17	Health	25	20.48	121	512	96	0
+8/28/2025	Store_5	Prod_4	Snacks	24	17.78	67	426.72	43	0
+8/29/2025	Store_2	Prod_14	Household	25	14.56	126	364	101	0
+8/30/2025	Store_1	Prod_18	Snacks	17	17.94	94	304.98	77	0
+8/31/2025	Store_3	Prod_15	Pet Supplies	24	11.18	164	268.32	140	0
+9/1/2025	Store_2	Prod_20	Beverages	26	4.75	136	123.5	110	0
+9/2/2025	Store_4	Prod_9	Pet Supplies	22	17.15	189	377.3	167	0
+9/3/2025	Store_3	Prod_13	Health	18	13.83	141	248.94	123	0
+9/4/2025	Store_4	Prod_3	Beverages	21	16.53	71	347.13	50	0
+9/5/2025	Store_2	Prod_18	Snacks	22	9.44	141	207.68	119	2
+9/6/2025	Store_3	Prod_10	Snacks	19	22.81	126	433.39	107	0
+9/7/2025	Store_1	Prod_20	Household	24	15.3	74	367.2	50	0
+9/8/2025	Store_4	Prod_20	Beverages	23	3.51	157	80.73	134	0
+9/9/2025	Store_4	Prod_13	Household	22	12.07	184	265.54	162	0
+9/10/2025	Store_3	Prod_1	Beverages	16	19.27	158	308.32	142	0
+9/11/2025	Store_2	Prod_18	Household	14	20.16	183	282.24	169	0
+9/12/2025	Store_4	Prod_2	Pet Supplies	25	13.12	73	328	48	0
+9/13/2025	Store_3	Prod_16	Snacks	23	22.53	68	518.19	45	0
+9/14/2025	Store_2	Prod_16	Household	20	7.79	132	155.8	112	0
+9/15/2025	Store_3	Prod_16	Beverages	18	11.15	164	200.7	146	0
+9/16/2025	Store_3	Prod_11	Health	17	22.62	58	384.54	41	0
+9/17/2025	Store_1	Prod_14	Health	22	22.56	161	496.32	139	0
+9/18/2025	Store_4	Prod_11	Health	21	17.61	151	369.81	130	0
+9/19/2025	Store_5	Prod_20	Pet Supplies	17	21.69	97	368.73	80	2
+9/20/2025	Store_2	Prod_15	Household	32	3.59	118	114.88	86	0
+9/21/2025	Store_2	Prod_19	Beverages	26	21.83	168	567.58	142	0
+9/22/2025	Store_5	Prod_9	Pet Supplies	21	9.03	94	189.63	73	0
+9/23/2025	Store_1	Prod_6	Health	12	5.69	174	68.28	162	0
+9/24/2025	Store_1	Prod_4	Household	21	7.13	63	149.73	42	0
+9/25/2025	Store_1	Prod_17	Beverages	28	11.32	183	316.96	155	0
+9/26/2025	Store_4	Prod_5	Health	14	7.4	184	103.6	170	0
+9/27/2025	Store_4	Prod_14	Snacks	17	9.03	86	153.51	69	0
+9/28/2025	Store_1	Prod_2	Household	24	4.67	102	112.08	78	0
+9/29/2025	Store_2	Prod_13	Household	17	8.46	67	143.82	50	0
+9/30/2025	Store_2	Prod_17	Pet Supplies	17	14.95	87	254.15	70	0
+10/1/2025	Store_1	Prod_4	Health	22	11.88	178	261.36	156	0
+10/2/2025	Store_2	Prod_16	Health	21	9.65	93	202.65	72	0
+10/3/2025	Store_1	Prod_11	Pet Supplies	23	19.04	96	437.92	73	0
+10/4/2025	Store_5	Prod_6	Health	22	22.5	84	495	62	0
+10/5/2025	Store_4	Prod_19	Health	18	19.28	109	347.04	91	0
+10/6/2025	Store_1	Prod_19	Household	13	9.3	139	120.9	126	0
+10/7/2025	Store_1	Prod_5	Health	28	18.99	101	531.72	73	0
+10/8/2025	Store_2	Prod_8	Snacks	13	5.07	57	65.91	44	0
+10/9/2025	Store_4	Prod_7	Pet Supplies	23	4.56	156	104.88	133	0
+10/10/2025	Store_4	Prod_2	Pet Supplies	14	9.62	180	134.68	166	0
+10/11/2025	Store_2	Prod_2	Household	23	20.48	191	471.04	168	0
+10/12/2025	Store_3	Prod_3	Household	16	7.29	145	116.64	129	0
+10/13/2025	Store_5	Prod_11	Snacks	20	2.99	75	59.8	55	0
+10/14/2025	Store_1	Prod_11	Snacks	31	4.6	160	142.6	129	0
+10/15/2025	Store_3	Prod_6	Beverages	20	21.68	172	433.6	152	0
+10/16/2025	Store_1	Prod_13	Snacks	21	16.39	100	344.19	79	0
+10/17/2025	Store_2	Prod_6	Household	21	7.45	172	156.45	151	0
+10/18/2025	Store_3	Prod_20	Health	16	14.55	54	232.8	38	0
+10/19/2025	Store_5	Prod_6	Pet Supplies	17	13.9	126	236.3	109	0
+10/20/2025	Store_4	Prod_19	Pet Supplies	19	16.9	50	321.1	31	0
+10/21/2025	Store_2	Prod_14	Beverages	21	6.98	60	146.58	39	2
+10/22/2025	Store_4	Prod_9	Health	18	21.81	57	392.58	39	0
+10/23/2025	Store_4	Prod_17	Household	19	8.77	81	166.63	62	0
+10/24/2025	Store_3	Prod_8	Health	22	17.81	77	391.82	55	0
+10/25/2025	Store_4	Prod_6	Beverages	14	1.88	180	26.32	166	0
+10/26/2025	Store_5	Prod_16	Health	14	10.26	177	143.64	163	2
+10/27/2025	Store_3	Prod_14	Snacks	23	9.77	111	224.71	88	0
+10/28/2025	Store_1	Prod_12	Household	20	14.27	76	285.4	56	0
+10/29/2025	Store_4	Prod_8	Health	22	3.21	94	70.62	72	0
+10/30/2025	Store_5	Prod_16	Health	19	20.07	154	381.33	135	0
+10/31/2025	Store_1	Prod_19	Snacks	25	6.62	141	165.5	116	0
+11/1/2025	Store_3	Prod_19	Health	13	17.41	74	226.33	61	0
+11/2/2025	Store_2	Prod_18	Pet Supplies	21	20.38	93	427.98	72	0
+11/3/2025	Store_4	Prod_4	Pet Supplies	13	14.7	191	191.1	178	0
+11/4/2025	Store_4	Prod_5	Health	13	18.91	185	245.83	172	0
+11/5/2025	Store_5	Prod_7	Beverages	21	17.05	191	358.05	170	0
+11/6/2025	Store_5	Prod_8	Snacks	22	9.85	129	216.7	107	0
+11/7/2025	Store_1	Prod_13	Beverages	23	20.51	131	471.73	108	0
+11/8/2025	Store_5	Prod_3	Household	17	8.43	184	143.31	167	0
+11/9/2025	Store_3	Prod_3	Pet Supplies	21	14.92	137	313.32	116	0
+11/10/2025	Store_5	Prod_6	Snacks	18	19.02	176	342.36	158	0
+11/11/2025	Store_3	Prod_10	Beverages	19	10.41	104	197.79	85	0
+11/12/2025	Store_4	Prod_5	Beverages	23	8.62	190	198.26	167	0
+11/13/2025	Store_2	Prod_3	Household	18	12.29	105	221.22	87	0
+11/14/2025	Store_4	Prod_11	Snacks	23	20.72	64	476.56	41	0
+11/15/2025	Store_3	Prod_17	Snacks	22	23.35	107	513.7	85	0
+11/16/2025	Store_2	Prod_11	Household	24	14.31	137	343.44	113	0
+11/17/2025	Store_4	Prod_18	Snacks	19	17.04	146	323.76	127	0
+11/18/2025	Store_3	Prod_15	Household	16	22.73	193	363.68	177	2
+11/19/2025	Store_2	Prod_3	Pet Supplies	18	3.82	57	68.76	39	0
+11/20/2025	Store_4	Prod_9	Pet Supplies	18	6.95	89	125.1	71	0
+11/21/2025	Store_2	Prod_12	Health	15	18.16	63	272.4	48	0
+11/22/2025	Store_4	Prod_11	Snacks	18	20.86	102	375.48	84	0
+11/23/2025	Store_5	Prod_19	Beverages	14	21.64	176	302.96	162	0
+11/24/2025	Store_5	Prod_13	Household	19	11.26	129	213.94	110	0
+11/25/2025	Store_5	Prod_16	Snacks	22	3.6	164	79.2	142	0
+11/26/2025	Store_1	Prod_9	Snacks	22	11.79	183	259.38	161	0
+11/27/2025	Store_5	Prod_10	Beverages	15	6.92	104	103.8	89	0
+11/28/2025	Store_5	Prod_4	Health	21	8.34	93	175.14	72	0
+11/29/2025	Store_1	Prod_20	Pet Supplies	19	19.65	67	373.35	48	0
+11/30/2025	Store_2	Prod_4	Beverages	14	3.27	65	45.78	51	0
+12/1/2025	Store_2	Prod_17	Pet Supplies	15	20.95	61	314.25	46	0
+12/2/2025	Store_4	Prod_9	Health	16	11.55	197	184.8	181	0
+12/3/2025	Store_5	Prod_7	Household	21	15.51	94	325.71	73	0
+12/4/2025	Store_2	Prod_6	Beverages	26	3.61	142	93.86	116	0
+12/5/2025	Store_1	Prod_2	Beverages	18	9.43	71	169.74	53	0
+12/6/2025	Store_1	Prod_6	Household	20	3.61	146	72.2	126	0
+12/7/2025	Store_2	Prod_18	Snacks	21	24.1	96	506.1	75	0
+12/8/2025	Store_3	Prod_1	Beverages	19	20.47	78	388.93	59	0
+12/9/2025	Store_3	Prod_7	Health	14	12.3	94	172.2	80	0
+12/10/2025	Store_3	Prod_17	Beverages	19	6.75	126	128.25	107	0
+12/11/2025	Store_5	Prod_16	Snacks	24	23.44	58	562.56	34	0
+12/12/2025	Store_2	Prod_20	Beverages	25	9.6	73	240	48	0
+12/13/2025	Store_4	Prod_1	Household	20	5.28	64	105.6	44	0
+12/14/2025	Store_2	Prod_19	Beverages	34	14.73	62	500.82	28	0
+12/15/2025	Store_3	Prod_10	Pet Supplies	23	23.68	140	544.64	117	0
+12/16/2025	Store_5	Prod_7	Pet Supplies	19	1.59	150	30.21	131	0
+12/17/2025	Store_1	Prod_16	Health	22	7.1	120	156.2	98	0
+12/18/2025	Store_5	Prod_4	Household	13	23.55	171	306.15	158	0
+12/19/2025	Store_2	Prod_12	Snacks	17	5.52	125	93.84	108	0
+12/20/2025	Store_5	Prod_7	Pet Supplies	19	4.16	165	79.04	146	0
+12/21/2025	Store_5	Prod_7	Health	18	14.9	110	268.2	92	0
+12/22/2025	Store_4	Prod_18	Snacks	21	21.75	175	456.75	154	0
+12/23/2025	Store_4	Prod_2	Pet Supplies	18	12.71	50	228.78	32	0
+12/24/2025	Store_5	Prod_3	Beverages	19	24.87	117	472.53	98	0
+12/25/2025	Store_3	Prod_6	Beverages	21	17.46	137	366.66	116	0
+12/26/2025	Store_2	Prod_14	Pet Supplies	24	3.24	70	77.76	46	0
+12/27/2025	Store_3	Prod_1	Beverages	25	24.83	184	620.75	159	0
+12/28/2025	Store_4	Prod_5	Health	24	11.09	52	266.16	28	0
+12/29/2025	Store_3	Prod_16	Health	19	8.25	100	156.75	81	2
+12/30/2025	Store_4	Prod_20	Pet Supplies	20	14.61	128	292.2	108	2
+12/31/2025	Store_3	Prod_13	Snacks	16	8.65	144	138.4	128	0
+1/1/2026	Store_4	Prod_14	Health	21	3.53	172	74.13	151	0
+1/2/2026	Store_3	Prod_17	Beverages	11	1.53	55	16.83	44	0
+1/3/2026	Store_4	Prod_7	Household	24	12.07	66	289.68	42	0
+1/4/2026	Store_2	Prod_6	Health	16	21.17	166	338.72	150	0
+1/5/2026	Store_4	Prod_9	Household	12	14.95	109	179.4	97	0
+1/6/2026	Store_3	Prod_18	Pet Supplies	15	24.98	199	374.7	184	0
+1/7/2026	Store_5	Prod_3	Beverages	16	8.24	174	131.84	158	0
+1/8/2026	Store_5	Prod_15	Snacks	10	8.09	130	80.9	120	0
+1/9/2026	Store_4	Prod_14	Health	20	5.25	134	105	114	0
+1/10/2026	Store_4	Prod_16	Beverages	18	5.36	100	96.48	82	0
+1/11/2026	Store_1	Prod_11	Snacks	14	8.2	188	114.8	174	2
+1/12/2026	Store_3	Prod_2	Health	11	20.13	120	221.43	109	2
+1/13/2026	Store_2	Prod_15	Beverages	21	22.79	88	478.59	67	0
+1/14/2026	Store_1	Prod_3	Beverages	26	24.41	118	634.66	92	0
+1/15/2026	Store_1	Prod_1	Pet Supplies	31	6.96	97	215.76	66	0
+1/16/2026	Store_4	Prod_17	Snacks	13	22.21	174	288.73	161	0
+1/17/2026	Store_5	Prod_5	Health	15	9.21	106	138.15	91	0
+1/18/2026	Store_2	Prod_7	Snacks	22	4.15	70	91.3	48	0
+1/19/2026	Store_2	Prod_18	Health	29	21.95	131	636.55	102	0
+1/20/2026	Store_1	Prod_9	Health	17	16.45	148	279.65	131	0
+1/21/2026	Store_1	Prod_18	Beverages	15	5.37	197	80.55	182	0
+1/22/2026	Store_2	Prod_10	Pet Supplies	14	11.6	64	162.4	50	0
+1/23/2026	Store_1	Prod_17	Pet Supplies	16	8.25	118	132	102	0
+1/24/2026	Store_1	Prod_10	Health	30	18.81	125	564.3	95	0
+1/25/2026	Store_2	Prod_6	Snacks	18	12.16	111	218.88	93	0
+1/26/2026	Store_1	Prod_19	Snacks	12	24.75	168	297	156	0
+1/27/2026	Store_3	Prod_12	Pet Supplies	22	2.79	86	61.38	64	0
+1/28/2026	Store_2	Prod_11	Household	19	9.84	183	186.96	164	0
+1/29/2026	Store_5	Prod_10	Snacks	19	12.82	75	243.58	56	0
+1/30/2026	Store_2	Prod_16	Household	18	13.32	57	239.76	39	0
+1/31/2026	Store_2	Prod_11	Snacks	21	8.92	53	187.32	32	0
+2/1/2026	Store_1	Prod_5	Beverages	17	18.64	70	316.88	53	0
+2/2/2026	Store_5	Prod_2	Snacks	16	22.06	198	352.96	182	0
+2/3/2026	Store_1	Prod_9	Health	15	23.56	74	353.4	59	0
+2/4/2026	Store_4	Prod_20	Health	22	20.42	192	449.24	170	0
+2/5/2026	Store_1	Prod_13	Beverages	20	21.49	92	429.8	72	0
+2/6/2026	Store_4	Prod_20	Pet Supplies	12	14.44	86	173.28	74	0
+2/7/2026	Store_4	Prod_14	Snacks	18	20.91	91	376.38	73	0
+2/8/2026	Store_3	Prod_14	Health	16	8.63	141	138.08	125	0
+2/9/2026	Store_1	Prod_11	Health	15	10.86	110	162.9	95	2
+2/10/2026	Store_1	Prod_20	Beverages	18	8.95	191	161.1	173	0
+2/11/2026	Store_3	Prod_13	Pet Supplies	19	12.48	117	237.12	98	0
+2/12/2026	Store_3	Prod_2	Health	26	8.21	102	213.46	76	0
+2/13/2026	Store_3	Prod_10	Beverages	23	24.1	133	554.3	110	0
+2/14/2026	Store_2	Prod_6	Beverages	19	8.85	83	168.15	64	0
+2/15/2026	Store_4	Prod_13	Pet Supplies	19	3.8	125	72.2	106	0
+2/16/2026	Store_2	Prod_13	Pet Supplies	22	13.88	146	305.36	124	0
+2/17/2026	Store_4	Prod_14	Beverages	14	2.84	197	39.76	183	0
+2/18/2026	Store_2	Prod_2	Health	16	4.1	79	65.6	63	0
+2/19/2026	Store_2	Prod_11	Health	22	6.66	137	146.52	115	0
+2/20/2026	Store_5	Prod_14	Snacks	19	12.41	56	235.79	37	0
+2/21/2026	Store_1	Prod_20	Snacks	21	11.68	85	245.28	64	0
+2/22/2026	Store_3	Prod_18	Household	15	20.29	87	304.35	72	0
+2/23/2026	Store_2	Prod_13	Beverages	21	18.88	101	396.48	80	0
+2/24/2026	Store_5	Prod_2	Pet Supplies	16	11.52	192	184.32	176	0
+2/25/2026	Store_2	Prod_14	Health	24	9.34	189	224.16	165	0
+2/26/2026	Store_4	Prod_10	Pet Supplies	17	8.94	192	151.98	175	0
+2/27/2026	Store_2	Prod_16	Snacks	21	19.69	142	413.49	121	0
+2/28/2026	Store_3	Prod_2	Household	23	2.72	156	62.56	133	0
+3/1/2026	Store_3	Prod_11	Snacks	20	1.8	175	36	155	0
+3/2/2026	Store_1	Prod_4	Health	17	20.2	98	343.4	81	0
+3/3/2026	Store_2	Prod_1	Pet Supplies	21	12.71	70	266.91	49	0
+3/4/2026	Store_3	Prod_19	Pet Supplies	17	4.58	64	77.86	47	0
+3/5/2026	Store_2	Prod_3	Snacks	20	7.04	63	140.8	43	0
+3/6/2026	Store_5	Prod_13	Pet Supplies	23	23.41	91	538.43	68	0
+3/7/2026	Store_2	Prod_2	Household	15	21.7	64	325.5	49	0
+3/8/2026	Store_4	Prod_5	Household	13	18.18	112	236.34	99	0
+3/9/2026	Store_4	Prod_13	Pet Supplies	21	12.83	76	269.43	55	0
+3/10/2026	Store_3	Prod_18	Household	20	13.73	142	274.6	122	0
+3/11/2026	Store_4	Prod_10	Pet Supplies	15	24.42	154	366.3	139	0
+3/12/2026	Store_5	Prod_19	Health	26	24.2	102	629.2	76	0
+3/13/2026	Store_5	Prod_14	Household	26	6.56	101	170.56	75	0
+3/14/2026	Store_2	Prod_7	Beverages	25	20.56	112	514	87	0
+3/15/2026	Store_1	Prod_20	Household	21	6.14	106	128.94	85	0
+3/16/2026	Store_2	Prod_1	Beverages	17	6.52	169	110.84	152	0
+3/17/2026	Store_4	Prod_18	Pet Supplies	16	17.39	101	278.24	85	0
+3/18/2026	Store_3	Prod_10	Household	21	11.02	156	231.42	135	0
+3/19/2026	Store_3	Prod_12	Pet Supplies	19	23.39	92	444.41	73	0
+3/20/2026	Store_3	Prod_4	Beverages	12	3.59	184	43.08	172	2
+3/21/2026	Store_3	Prod_3	Health	15	13.52	166	202.8	151	0
+3/22/2026	Store_1	Prod_3	Household	16	23.09	53	369.44	37	0
+3/23/2026	Store_4	Prod_4	Health	19	22.75	182	432.25	163	0
+3/24/2026	Store_1	Prod_9	Snacks	22	5.18	129	113.96	107	0
+3/25/2026	Store_1	Prod_4	Snacks	28	10.12	90	283.36	62	0
+3/26/2026	Store_4	Prod_7	Snacks	15	16.05	181	240.75	166	0
+3/27/2026	Store_3	Prod_12	Beverages	19	5.25	51	99.75	32	2
+3/28/2026	Store_4	Prod_1	Beverages	22	24.25	198	533.5	176	0
+3/29/2026	Store_1	Prod_2	Snacks	23	23	92	529	69	0
+3/30/2026	Store_4	Prod_7	Snacks	26	5.42	131	140.92	105	0
+3/31/2026	Store_1	Prod_13	Pet Supplies	16	4.35	157	69.6	141	0
+4/1/2026	Store_5	Prod_10	Beverages	20	3.51	186	70.2	166	0
+4/2/2026	Store_1	Prod_9	Household	16	22.87	75	365.92	59	0
+4/3/2026	Store_3	Prod_4	Beverages	24	6.05	131	145.2	107	0
+4/4/2026	Store_5	Prod_18	Health	19	11.28	132	214.32	113	0
+4/5/2026	Store_2	Prod_3	Household	29	12.05	180	349.45	151	0
+4/6/2026	Store_3	Prod_18	Snacks	24	15.58	122	373.92	98	0
+4/7/2026	Store_2	Prod_10	Health	18	3.19	149	57.42	131	0
+4/8/2026	Store_4	Prod_16	Health	22	6.83	98	150.26	76	0
+4/9/2026	Store_1	Prod_14	Household	21	23.39	194	491.19	173	0
+4/10/2026	Store_1	Prod_4	Household	20	22.85	112	457	92	0
+4/11/2026	Store_4	Prod_5	Snacks	19	19.86	104	377.34	85	0
+4/12/2026	Store_2	Prod_2	Beverages	23	1.96	83	45.08	60	0
+4/13/2026	Store_1	Prod_18	Snacks	19	9.18	154	174.42	135	0
+4/14/2026	Store_3	Prod_18	Health	27	16.26	154	439.02	127	0
+4/15/2026	Store_4	Prod_6	Household	25	7.97	118	199.25	93	0
+4/16/2026	Store_2	Prod_1	Pet Supplies	31	22.88	64	709.28	33	0
+4/17/2026	Store_1	Prod_15	Pet Supplies	18	16.4	52	295.2	34	2
+4/18/2026	Store_4	Prod_3	Snacks	20	3.19	52	63.8	32	0
+4/19/2026	Store_1	Prod_7	Health	16	22.86	151	365.76	135	0
+4/20/2026	Store_5	Prod_15	Beverages	17	24.01	53	408.17	36	2
+4/21/2026	Store_3	Prod_19	Pet Supplies	14	3.33	137	46.62	123	0
+4/22/2026	Store_3	Prod_15	Household	29	14.01	94	406.29	65	0
+4/23/2026	Store_3	Prod_13	Pet Supplies	18	8.63	94	155.34	76	0
+4/24/2026	Store_4	Prod_14	Household	22	10.73	124	236.06	102	0
+4/25/2026	Store_2	Prod_15	Household	14	5.72	58	80.08	44	0
+4/26/2026	Store_4	Prod_10	Pet Supplies	18	15.08	194	271.44	176	0
+4/27/2026	Store_2	Prod_1	Snacks	29	24.01	167	696.29	138	0
+4/28/2026	Store_1	Prod_11	Snacks	26	13.32	114	346.32	88	0
+4/29/2026	Store_4	Prod_3	Household	23	3.45	180	79.35	157	0
+4/30/2026	Store_2	Prod_11	Beverages	22	16.07	75	353.54	53	0
+5/1/2026	Store_5	Prod_5	Health	26	9.5	75	247	49	0
+5/2/2026	Store_3	Prod_16	Snacks	20	21.61	72	432.2	52	0
+5/3/2026	Store_5	Prod_7	Beverages	18	11.71	79	210.78	61	0
+5/4/2026	Store_5	Prod_17	Beverages	25	6.03	59	150.75	34	0
+5/5/2026	Store_1	Prod_12	Beverages	15	5.99	121	89.85	106	0
+5/6/2026	Store_5	Prod_10	Household	20	19.57	113	391.4	93	0
+5/7/2026	Store_4	Prod_10	Health	19	7.74	199	147.06	180	0
+5/8/2026	Store_5	Prod_5	Snacks	25	19.53	192	488.25	167	0
+5/9/2026	Store_2	Prod_11	Pet Supplies	22	6.34	172	139.48	150	0
+5/10/2026	Store_2	Prod_14	Beverages	18	9.06	154	163.08	136	0
+5/11/2026	Store_3	Prod_16	Health	23	12.44	123	286.12	100	0
+5/12/2026	Store_4	Prod_6	Beverages	19	23.67	197	449.73	178	2
+5/13/2026	Store_4	Prod_18	Beverages	22	23.4	154	514.8	132	0
+5/14/2026	Store_5	Prod_19	Beverages	17	6.36	96	108.12	79	0
+5/15/2026	Store_2	Prod_1	Snacks	29	9.92	136	287.68	107	0
+5/16/2026	Store_5	Prod_2	Pet Supplies	24	5.01	102	120.24	78	0
+5/17/2026	Store_2	Prod_11	Snacks	14	13.48	178	188.72	164	0
+5/18/2026	Store_5	Prod_9	Pet Supplies	18	12.32	51	221.76	33	0
+5/19/2026	Store_3	Prod_14	Pet Supplies	18	22.67	107	408.06	89	0
+5/20/2026	Store_4	Prod_16	Pet Supplies	19	23.36	196	443.84	177	0
+5/21/2026	Store_4	Prod_2	Snacks	20	10.51	121	210.2	101	0
+5/22/2026	Store_5	Prod_7	Beverages	16	13.06	189	208.96	173	0
+5/23/2026	Store_5	Prod_5	Snacks	22	22.56	76	496.32	54	0
+5/24/2026	Store_4	Prod_17	Beverages	19	20.46	78	388.74	59	2
+5/25/2026	Store_4	Prod_17	Beverages	24	1.59	64	38.16	40	0
+5/26/2026	Store_5	Prod_15	Household	25	9.02	178	225.5	153	0
+5/27/2026	Store_3	Prod_2	Health	19	11.41	109	216.79	90	0
+5/28/2026	Store_2	Prod_13	Pet Supplies	16	6.9	156	110.4	140	0
+5/29/2026	Store_3	Prod_3	Beverages	20	6.19	52	123.8	32	0
+5/30/2026	Store_3	Prod_8	Household	19	2.39	164	45.41	145	0
+5/31/2026	Store_5	Prod_14	Beverages	18	16.62	195	299.16	177	0
+6/1/2026	Store_2	Prod_17	Beverages	16	7.67	101	122.72	85	0
+6/2/2026	Store_4	Prod_13	Household	16	2.73	109	43.68	93	0
+6/3/2026	Store_1	Prod_20	Pet Supplies	27	6.93	83	187.11	56	0
+6/4/2026	Store_4	Prod_20	Health	23	20.34	145	467.82	122	0
+6/5/2026	Store_4	Prod_18	Snacks	14	21.51	138	301.14	124	0
+6/6/2026	Store_4	Prod_14	Beverages	19	12.85	109	244.15	90	2
+6/7/2026	Store_4	Prod_11	Household	20	11.28	68	225.6	48	0
+6/8/2026	Store_2	Prod_10	Household	18	24.48	160	440.64	142	0
+6/9/2026	Store_4	Prod_18	Pet Supplies	23	6.21	71	142.83	48	0
+6/10/2026	Store_3	Prod_3	Household	16	6.56	177	104.96	161	0
+6/11/2026	Store_3	Prod_6	Beverages	15	8.36	84	125.4	69	0
+6/12/2026	Store_4	Prod_12	Pet Supplies	18	5.56	156	100.08	138	0
+6/13/2026	Store_4	Prod_8	Health	18	10.42	177	187.56	159	0
+6/14/2026	Store_4	Prod_2	Beverages	22	22.9	132	503.8	110	0
+6/15/2026	Store_2	Prod_19	Household	24	15.96	187	383.04	163	0
+6/16/2026	Store_3	Prod_19	Beverages	26	11.18	192	290.68	166	0
+6/17/2026	Store_5	Prod_19	Health	23	23.46	188	539.58	165	0
+6/18/2026	Store_4	Prod_7	Beverages	16	2.64	160	42.24	144	0
+6/19/2026	Store_2	Prod_16	Beverages	18	6.44	139	115.92	121	2
+6/20/2026	Store_4	Prod_2	Health	16	14.8	73	236.8	57	0
+6/21/2026	Store_5	Prod_3	Health	12	15.97	126	191.64	114	0
+6/22/2026	Store_5	Prod_5	Beverages	21	2.43	150	51.03	129	2
+6/23/2026	Store_4	Prod_1	Snacks	19	10.97	181	208.43	162	0
+6/24/2026	Store_5	Prod_2	Pet Supplies	20	16.76	62	335.2	42	0
+6/25/2026	Store_2	Prod_11	Health	11	17.9	147	196.9	136	0
+6/26/2026	Store_4	Prod_5	Beverages	17	16.5	169	280.5	152	0
+6/27/2026	Store_2	Prod_13	Beverages	15	9.03	86	135.45	71	0
+6/28/2026	Store_3	Prod_7	Health	14	3.7	97	51.8	83	0
+6/29/2026	Store_4	Prod_8	Household	14	11.54	50	161.56	36	0
+6/30/2026	Store_3	Prod_5	Beverages	27	4.53	109	122.31	82	0
+7/1/2026	Store_2	Prod_8	Household	25	23.77	189	594.25	164	0
+7/2/2026	Store_4	Prod_12	Household	15	12.67	198	190.05	183	0
+7/3/2026	Store_3	Prod_1	Beverages	27	8.96	188	241.92	161	0
+7/4/2026	Store_2	Prod_7	Household	26	19.51	93	507.26	67	0
+7/5/2026	Store_4	Prod_16	Household	17	13.2	164	224.4	147	0
+7/6/2026	Store_4	Prod_10	Beverages	18	8.79	157	158.22	139	0
+7/7/2026	Store_2	Prod_15	Household	21	20.58	93	432.18	72	0
+7/8/2026	Store_4	Prod_18	Household	23	21.88	127	503.24	104	0
+7/9/2026	Store_4	Prod_7	Household	17	17.32	74	294.44	57	0
+7/10/2026	Store_2	Prod_20	Snacks	24	2.6	181	62.4	157	0
+7/11/2026	Store_2	Prod_20	Household	22	14.81	165	325.82	143	0
+7/12/2026	Store_5	Prod_5	Household	21	19.44	168	408.24	147	0
+7/13/2026	Store_4	Prod_2	Snacks	18	4.71	193	84.78	175	0
+7/14/2026	Store_4	Prod_4	Snacks	9	6.87	59	61.83	50	0
+7/15/2026	Store_1	Prod_11	Health	18	22.24	158	400.32	140	0
+7/16/2026	Store_3	Prod_13	Household	15	1.97	84	29.55	69	0
+7/17/2026	Store_2	Prod_18	Health	30	19.19	183	575.7	153	0
+7/18/2026	Store_3	Prod_15	Snacks	24	12.63	68	303.12	44	0
+7/19/2026	Store_2	Prod_20	Pet Supplies	24	12	57	288	33	0
+7/20/2026	Store_1	Prod_4	Pet Supplies	22	1.67	59	36.74	37	0
+7/21/2026	Store_2	Prod_7	Snacks	22	20.76	78	456.72	56	0
+7/22/2026	Store_5	Prod_1	Beverages	12	9.96	64	119.52	52	0
+7/23/2026	Store_3	Prod_5	Health	17	14.21	136	241.57	119	0
+7/24/2026	Store_5	Prod_14	Pet Supplies	18	17.42	72	313.56	54	0
+7/25/2026	Store_4	Prod_12	Beverages	21	18.01	95	378.21	74	0
+7/26/2026	Store_1	Prod_4	Pet Supplies	18	23.97	77	431.46	59	0
+7/27/2026	Store_4	Prod_7	Household	15	13.99	75	209.85	60	0
+7/28/2026	Store_2	Prod_2	Pet Supplies	17	10.89	59	185.13	42	0
+7/29/2026	Store_3	Prod_16	Health	21	23.91	53	502.11	32	0
+7/30/2026	Store_2	Prod_16	Beverages	18	16.59	104	298.62	86	0
+7/31/2026	Store_4	Prod_6	Health	16	8.51	115	136.16	99	0
+8/1/2026	Store_4	Prod_10	Snacks	24	4.47	116	107.28	92	0
+8/2/2026	Store_3	Prod_4	Beverages	18	21.3	184	383.4	166	0
+8/3/2026	Store_2	Prod_13	Snacks	17	10.01	104	170.17	87	0
+8/4/2026	Store_3	Prod_6	Pet Supplies	21	17.02	80	357.42	59	0
+8/5/2026	Store_2	Prod_12	Snacks	18	12.56	123	226.08	105	0
+8/6/2026	Store_4	Prod_19	Beverages	14	6.17	68	86.38	54	0
+8/7/2026	Store_1	Prod_1	Household	13	15.64	130	203.32	117	0
+8/8/2026	Store_5	Prod_5	Health	14	2.93	196	41.02	182	0
+8/9/2026	Store_1	Prod_8	Beverages	28	11.21	136	313.88	108	0
+8/10/2026	Store_5	Prod_20	Snacks	32	14.35	69	459.2	37	0
+8/11/2026	Store_3	Prod_9	Beverages	23	11.75	62	270.25	39	0
+8/12/2026	Store_1	Prod_9	Pet Supplies	26	19.09	126	496.34	100	0
+8/13/2026	Store_5	Prod_17	Snacks	20	20.96	92	419.2	72	0
+8/14/2026	Store_5	Prod_3	Beverages	18	19.62	188	353.16	170	0
+8/15/2026	Store_5	Prod_4	Household	24	2.41	192	57.84	168	0
+8/16/2026	Store_2	Prod_16	Pet Supplies	30	6.06	194	181.8	164	0
+8/17/2026	Store_1	Prod_17	Pet Supplies	21	14.11	99	296.31	78	0
+8/18/2026	Store_1	Prod_9	Household	10	23.47	77	234.7	67	2
+8/19/2026	Store_3	Prod_2	Beverages	19	21.12	53	401.28	34	0
+8/20/2026	Store_5	Prod_4	Health	19	21.3	71	404.7	52	0
+8/21/2026	Store_1	Prod_9	Health	31	8.63	168	267.53	137	0
+8/22/2026	Store_1	Prod_18	Health	20	11.59	150	231.8	130	0
+8/23/2026	Store_3	Prod_19	Pet Supplies	27	12.56	88	339.12	61	0
+8/24/2026	Store_2	Prod_12	Snacks	18	5.2	83	93.6	65	0
+8/25/2026	Store_3	Prod_19	Beverages	25	2.23	146	55.75	121	0
+8/26/2026	Store_5	Prod_10	Beverages	22	23.75	93	522.5	71	0
+8/27/2026	Store_2	Prod_14	Household	19	7.16	89	136.04	70	0
+8/28/2026	Store_2	Prod_20	Pet Supplies	19	7.14	146	135.66	127	2
+8/29/2026	Store_2	Prod_15	Beverages	19	3.46	189	65.74	170	0
+8/30/2026	Store_3	Prod_14	Household	18	23.32	179	419.76	161	0
+8/31/2026	Store_2	Prod_20	Pet Supplies	15	15.12	123	226.8	108	0
+9/1/2026	Store_1	Prod_19	Pet Supplies	21	17.18	135	360.78	114	0
+9/2/2026	Store_4	Prod_14	Pet Supplies	17	22.92	139	389.64	122	0
+9/3/2026	Store_1	Prod_18	Pet Supplies	20	9.62	116	192.4	96	2
+9/4/2026	Store_1	Prod_14	Household	31	16.11	125	499.41	94	0
+9/5/2026	Store_3	Prod_14	Pet Supplies	20	2.41	141	48.2	121	0
+9/6/2026	Store_4	Prod_10	Pet Supplies	20	5.89	59	117.8	39	0
+9/7/2026	Store_3	Prod_6	Pet Supplies	16	21.03	135	336.48	119	2
+9/8/2026	Store_2	Prod_17	Pet Supplies	14	19.52	151	273.28	137	2
+9/9/2026	Store_2	Prod_13	Household	22	9.74	157	214.28	135	0
+9/10/2026	Store_1	Prod_18	Household	21	10.36	140	217.56	119	0
+9/11/2026	Store_5	Prod_3	Pet Supplies	23	14.04	128	322.92	105	0
+9/12/2026	Store_4	Prod_16	Snacks	23	1.51	135	34.73	112	0
+9/13/2026	Store_1	Prod_15	Health	18	7.17	156	129.06	138	0
+9/14/2026	Store_1	Prod_15	Snacks	12	6.39	150	76.68	138	0
+9/15/2026	Store_2	Prod_16	Beverages	14	7.39	157	103.46	143	0
+9/16/2026	Store_2	Prod_17	Household	25	20.44	109	511	84	0
+9/17/2026	Store_5	Prod_5	Pet Supplies	18	8.07	97	145.26	79	0
+9/18/2026	Store_1	Prod_13	Beverages	25	6	166	150	141	0
+9/19/2026	Store_4	Prod_4	Health	26	13.35	155	347.1	129	0
+9/20/2026	Store_2	Prod_13	Snacks	15	21.84	196	327.6	181	0
+9/21/2026	Store_3	Prod_3	Household	15	7.17	82	107.55	67	0
+9/22/2026	Store_5	Prod_12	Health	20	3.35	93	67	73	0
+9/23/2026	Store_5	Prod_16	Household	15	9.88	161	148.2	146	0
+9/24/2026	Store_3	Prod_4	Snacks	9	19.07	138	171.63	129	0
+9/25/2026	Store_3	Prod_1	Household	21	14.44	85	303.24	64	0
+9/26/2026	Store_5	Prod_4	Beverages	22	20.69	130	455.18	108	0
